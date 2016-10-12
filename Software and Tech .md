@@ -1,7 +1,11 @@
 # Software and Tech Resources
 <b>FOR NON-HACKERS:</b><br>
-<a href="http://www.qnamarkup.org">QnA Markup</a><br>
-Coding for Lawyers: <a href="http://codingforlawyers.com">Website</a> | <a href="https://github.com/vzvenyach/codingforlawyers">Github</a><br>
+<dl>
+<a href="http://www.qnamarkup.org"><dt>QnA Markup</a></dt><br>
+<dd>--</dd><br>
+<dt>Coding for Lawyers: <a href="http://codingforlawyers.com">Website</a> | <a href="https://github.com/vzvenyach/codingforlawyers">Github</a></dt><br>
+<dd>--</dd><br>
+</dl>
 <br>
 <b>FOR HACKERS:</b><br>
 BIMserver: <a href="http://bimserver.org">Website</a> | <a href="https://github.com/opensourceBIM/BIMserver">Github</a><br> 
