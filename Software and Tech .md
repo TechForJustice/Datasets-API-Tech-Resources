@@ -1,5 +1,5 @@
 # Software and Tech Resources
-<b>FOR NON-HACKERS:
+<b>FOR NON-HACKERS:</b>
 <ul style="list-style-type:circle">
 <a href="http://www.qnamarkup.org"><li>QnA Markup</a></li>
 <dd>- QnA is a markup language for people with little or no programming experience. It was designed with attorneys in mind and transforms blocks of text into interactive question and answer sessions (QnAs). These QnAs can be used as stand-alone expert systems or in the aid of rule-based document construction</dd><br>
