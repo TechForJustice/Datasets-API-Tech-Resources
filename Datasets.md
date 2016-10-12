@@ -1,16 +1,16 @@
 # Datasets-API-Tech-Resources
 <b>GRANT REPORTING:</b><br>
-<a href="https://www.usaspending.gov/DownloadCenter/Pages/DataDownload.aspx">Downloadable dataset by USA Spending</a><br>
-<a href="http://www.lsc.gov/basic-field-funding">Basic Field Funding dataset by LSC</a><br>
-<a href="http://www.lsc.gov/case-service-report">Case Service Report dataset by LSC</a><br>
-<a href="http://www.lsc.gov/grants-grantee-resources/grantee-data/grantee-technology">Grantee Technology dataset by LSC</a><br>
+<a href="https://www.usaspending.gov/DownloadCenter/Pages/DataDownload.aspx">Downloadable dataset</a> by USA Spending<br>
+<a href="http://www.lsc.gov/basic-field-funding">Basic Field Funding dataset</a> by LSC<br>
+<a href="http://www.lsc.gov/case-service-report">Case Service Report dataset</a> by LSC<br>
+<a href="http://www.lsc.gov/grants-grantee-resources/grantee-data/grantee-technology">Grantee Technology dataset</a> by LSC<br>
 <a href="http://www.lsc.gov/category/data-fact-sheets-charts">LSC data, fact sheets, and charts</a><br>
-<a href="https://legalaidresources.org">Civil Legal Aid Federal Funding Resources by National Legal Aid & Defender Association</a></br>
-<a href="http://www.americanbar.org/groups/legal_aid_indigent_defendants/initiatives/resource_center_for_access_to_justice/resources---information-on-civil-legal-aid-funding.html">Civil Legal Aid Funding by the American Bar Association</a><br>
+<a href="https://legalaidresources.org">Civil Legal Aid Federal Funding Resources</a> by National Legal Aid & Defender Association</br>
+<a href="http://www.americanbar.org/groups/legal_aid_indigent_defendants/initiatives/resource_center_for_access_to_justice/resources---information-on-civil-legal-aid-funding.html">Civil Legal Aid Funding</a> by the American Bar Association<br>
 <br>
 <b>CONSUMER DEBT:</B><br>
 <a href="http://catalog.data.gov/dataset/consumer-complaint-database#topic=consumer_navigation">Consumer Complaint dataset</a><br>
-<a href="http://ptla.org/library/358">Pine Tree Legal Assitance library for consumer-related problems & datasets</a><br>
+<a href="http://ptla.org/library/358">Consumer-related information and dataset library</a> by Pine Tree Legal Association<br>
 <a href="http://statesidelegal.org/library/2712">Stateside Legal library for consumer-related problems & datasets (geared towards military & veterans)</a><br>
 <a href="http://www.consumerfinance.gov/data-research/consumer-complaints/">Consumer Complaint Database by Consumer Finance Protection Bureau</a><br>
 <a href="https://www.opendatanetwork.com/search?q=consumer+debt">Open Data on Consumer Debt by Socrata</a><br>
