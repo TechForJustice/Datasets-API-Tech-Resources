@@ -1,8 +1,8 @@
 # Datasets
 <b>GRANT REPORTING:</b><br>
 <ul style="list-style-type:circle">
-<li><a href="https://www.usaspending.gov/DownloadCenter/Pages/DataDownload.aspx">Downloadable dataset</a> by USA Spending</li>
-<dd>-</dd><br>
+<li><a href="https://www.usaspending.gov/DownloadCenter/Pages/DataDownload.aspx">Downloadable dataset</a></li>
+<dd>-Downloadable dataset about grant reporting archived by USA Spending</dd><br>
 <li><a href="http://www.lsc.gov/basic-field-funding">Basic Field Funding dataset</a> by LSC</li>
 <dd>-</dd><br>
 <li><a href="http://www.lsc.gov/case-service-report">Case Service Report dataset</a> by LSC</li>
