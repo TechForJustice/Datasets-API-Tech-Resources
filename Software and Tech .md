@@ -45,7 +45,6 @@
 <dd>-</dd><br>
 <li><a href="https://www.appsme.com/pricing">Appsme</a></li>
 <dd>-</dd><br>
-<br>
 </ul>
 List of free mobile app & website building platforms:<br>
 a. <a href="http://www.techworld.com/picture-gallery/apps/18-best-mobile-application-development-platforms-tools-3375307/">techworld.com</a><br>
