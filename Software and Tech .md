@@ -1,4 +1,4 @@
-# Datasets-API-Tech-Resources
+# Software and Tech Resources
 <b>FOR NON-HACKERS:</b><br>
 <a href="http://www.qnamarkup.org">QnA Markup</a><br>
 Coding for Lawyers: <a href="http://codingforlawyers.com">Website</a> | <a href="https://github.com/vzvenyach/codingforlawyers">Github</a><br>
