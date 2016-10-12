@@ -1,37 +1,23 @@
 # Apps & Services that can be used
-<b>GRANT REPORTING:</b><br>
+<b>GRANT REPORTING:</b>
 <ul style="list-style-type:circle">
-<li><a href="http://crcamerica.org/resources/common-grant-forms/">Common grant forms</a> by Community Resource Center America</li>
-<dd>-</dd><br>
+<li><a href="http://crcamerica.org/resources/common-grant-forms/">Common grant forms</a> by Community Resource Center America - these common grant forms by CRC allows Colorado grantseekers to use a single form for many different applications and reports</li>
 </ul>
-<b>CONSUMER DEBT:</b><br>
+<b>CONSUMER DEBT:</b>
 <ul style="list-style-type:circle">
-<li><a href="https://debtlookup.com">Debtlookup</a></li>
-<dd>-</dd><br>
-<li><a href="https://www.lendingclub.com">Lending club</a></li>
-<dd>-</dd><br>
-<li><a href="https://www.upstart.com">Upstart</a></li>
-<dd>-</dd><br>
-<li><a href="https://www.readyforzero.com">Ready for zero</a></li>
-<dd>-</dd><br>
+<li><a href="https://debtlookup.com">Debtlookup</a> - free service which provides scecure and easy access to account-level data and documents supporting claims by legitimate debit collectors.</li>
+<li><a href="https://www.lendingclub.com">Lending club</a> - provides personal loans, business loans, and finacing for elective medical procedures with low interest rates</li>
+<li><a href="https://www.upstart.com">Upstart</a> - provides loans with low interest rates</li>
+<li><a href="https://www.readyforzero.com">Ready for zero</a> - app which helps the user manage and reduce their debts</li>
 <li><a href="http://www.consumerfinance.gov/complaint/">Various debt collection complaint forms</a> by Consumer Financial Protection Bureau</li>
-<dd>-</dd><br>
 <li><a href="https://www.usa.gov/consumer-complaints">Information about filing a consumer complaint</a> by usa.gov</li>
-<dd>-</dd><br>
 <li><a href="http://www.credit.org/our-services/">Credit counseling services</a> by credit.org</li>
-<dd>-</dd><br>
 <li><a href="https://www.justice.gov/ust/list-credit-counseling-agencies-approved-pursuant-11-usc-111">List of credit counseling agencies</a> approved by US Department of Justice</li>
-<dd>-</dd><br>
 <li><a href="https://www.consumer.ftc.gov/articles/0153-choosing-credit-counselor">Information on choosing a credit counselor</a> by Federal Trade Commission</li>
-<dd>-</dd><br>
 <li><a href="https://www.justice.gov/ust/consumer-information">Information about consumer and creditor</a> by US Department of Justice</li>
-<dd>-</dd><br>
 <li><a href="https://www.justice.gov/ust/list-approved-providers-personal-financial-management-instructional-courses-debtor-education">List of debtor education providers</a> approved by US Department of Justice</li>
-<dd>-</dd><br>
 <li><a href="https://www.justice.gov/ust/frequently-asked-questions-faqs-credit-counseling">Information about credit counseling</A> by US Department of Justice</li>
-<dd>-</dd><br>
 <li><a href="https://www.justice.gov/ust/frequently-asked-questions-faqs-debtor-education">Information about debtor education</a> by US Department of Justice</li>
-<dd>-</dd><br>
 </ul>
 <b>HEALTH CARE:</b><br>
 <ul style="list-style-type:circle">
