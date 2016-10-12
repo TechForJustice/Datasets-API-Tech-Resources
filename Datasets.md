@@ -72,7 +72,7 @@
 <li><a href="http://www.americanbar.org/groups/legal_aid_indigent_defendants/initiatives/resource_center_for_access_to_justice.html">Resource Center for Access to Justice Initiatives</a> by American Bar Association</li>
 <li><a href="http://ocla.wa.gov/wp-content/uploads/2015/10/CivilLegalNeedsStudy_October2015_V21_Final10_14_15.pdf">Civil Legal Needs Study</a> by the Washington State Supreme Court</li>
 <li><a href="https://www.opendatanetwork.com">Open Data Network</a> by Socrata</li>
-<dd>- Website that allows user to search for public data about various topics</dd><br>
+<dd>- Website that allows user to search for public data about various topics</dd>
 <li><a href="https://www.ssa.gov/representation/">Information for legal representation to disabled citizens</a> by the Social Security Administration</li>
 <li><a href="https://www.ftc.gov/tips-advice/business-center/guidance/mobile-health-apps-interactive-tool">Guidelines for building a mobile health app</a> by the Federal Trade Commission</li>
 <li><a href="http://legalaid.uslegal.com">List of legal aid assistance by state</a> collected by uslegal.com</li>
