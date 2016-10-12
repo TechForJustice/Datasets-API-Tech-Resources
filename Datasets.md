@@ -46,7 +46,7 @@
 <a href="http://statesidelegal.org/library/2780">Government benefits information and dataset library</A> by Stateside Legal (for military & veterans)<BR>
 <a href="https://www.opendatanetwork.com/search?q=food+stamp">Open Data on Food Stamps</a> by Socrata<br>
 <a href="https://www.disability.gov">Benefits for the disabled</a> by disability.gov<br>
-a href="https://www.benefits.gov/benefits/browse-by-state">List of government benefits by state collected</a> by benefits.gov<br>
+<a href="https://www.benefits.gov/benefits/browse-by-state">List of government benefits by state</a> collected by benefits.gov<br>
 <br>
 <b>GENERAL DATA & OTHER HELPFUL INFORMATION:</b><br>
 <a href="https://catalog.data.gov/dataset/census-of-governments">Census of Governments</a> by US Census Bureau<br>
