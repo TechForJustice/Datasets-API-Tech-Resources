@@ -1,6 +1,6 @@
 <strong>Legal Justice Hackathon Resources</strong><br>
 These are all the resources gathered by Tech For Justice to be utilized in this Hackathon.<br>
-You and your team may use these resources to help develop your solutions to the problem sets.<br>
+You and your team can use these resources to help develop your solutions to the problem sets.<br>
 Click on the links below to access the resources listed by their category.<br>
 <br>
 <br>
