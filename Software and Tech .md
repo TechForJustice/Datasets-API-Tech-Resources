@@ -1,10 +1,10 @@
 # Software and Tech Resources
-<b>FOR NON-HACKERS:</b><br>
+<b>FOR NON-HACKERS:</b>
 <ul style="list-style-type:circle">
 <a href="http://www.qnamarkup.org"><li>QnA Markup</a></li>
-<dd>--</dd><br>
+<dd>- QnA is a markup language for people with little or no programming experience. It was designed with attorneys in mind and transforms blocks of text into interactive question and answer sessions (QnAs). These QnAs can be used as stand-alone expert systems or in the aid of rule-based document construction</dd><br>
 <li>Coding for Lawyers: <a href="http://codingforlawyers.com">Website</a> | <a href="https://github.com/vzvenyach/codingforlawyers">Github</a></li>
-<dd>--</dd><br>
+<dd>- Short lessons about coding designed for people with little to no programming experience.</dd><br>
 </ul>
 <br>
 <b>FOR HACKERS:</b><br>
