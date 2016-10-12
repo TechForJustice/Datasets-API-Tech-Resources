@@ -3,6 +3,7 @@
 <ul style="list-style-type:circle">
 <li><a href="http://crcamerica.org/resources/common-grant-forms/">Common grant forms</a> by Community Resource Center America - these common grant forms by CRC allows Colorado grantseekers to use a single form for many different applications and reports</li>
 </ul>
+<br>
 <b>CONSUMER DEBT:</b>
 <ul style="list-style-type:circle">
 <li><a href="https://debtlookup.com">Debtlookup</a> - free service which provides scecure and easy access to account-level data and documents supporting claims by legitimate debit collectors.</li>
@@ -19,25 +20,29 @@
 <li><a href="https://www.justice.gov/ust/frequently-asked-questions-faqs-credit-counseling">Information about credit counseling</A> by US Department of Justice</li>
 <li><a href="https://www.justice.gov/ust/frequently-asked-questions-faqs-debtor-education">Information about debtor education</a> by US Department of Justice</li>
 </ul>
+<br>
 <b>HEALTH CARE:</b>
 <ul style="list-style-type:circle">
 <li><a href="https://www.healthlawyers.org/hlresources/PI/Pages/ProBonoToolkit.aspx">American Health Lawyers Association Pro-Bono Kit</a> (for health lawyers)</li>
 </ul>
+<br>
 <b>HOUSING:</b>
 <ul style="list-style-type:circle">
 <li><a href="https://www.makinghomeaffordable.gov/pages/default.aspx">Making Home Affordable website</a> by US Housing and Urban Development - service offered by the US Housing and Urban Development sector designed to help Americans with mortgage problems</li>
 <li><a href="http://wav.dotcreate.co">We are visible</a> - a peer support network for the homeless</li>
 <li><a href="http://www.link-sf.com">Link-SF</a> -  website that connects homeless and low-income residents with critical and life-saving resources nearby</li>
 </ul>
+<br>
 <b>DOMESTIC VIOLENCE:</b>
 <ul style="list-style-type:circle">
-<li><a href="http://nnedv.org/resources/transitional-housing.html">Domestic Violence Toolkit</a> by National Network to End Domestic Violence</li>
-<dd>- provides transitional housing providers with easy access to information and resources to enhance services to domestic violence survivors.</dd><br>
+<li><a href="http://nnedv.org/resources/transitional-housing.html">Domestic Violence Toolkit</a> by National Network to End Domestic Violence - provides transitional housing providers with easy access to information and resources to enhance services to domestic violence survivors.</li>
+<br>
 </ul>
 <b>GOVERNMENT BENEFITS:</b>
 <ul style="list-style-type:circle">
 <li><a href="http://www.snapfresh.org">SnapFresh</a> - service which finds the closest places that accepts EBT cards</li>
 </ul>
+<br>
 <b>GENERAL LAW APPS/SERVICES:</b>
 <ul style="list-style-type:circle">
 <li><a href="https://free.law/recap/">RECAP Project</a> - a free extension for Firefox and Chrome that improves the experience of using PACER, the electronic public access system for the U.S. Federal District and Bankruptcy Courts.</li>
