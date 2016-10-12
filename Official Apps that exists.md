@@ -47,7 +47,6 @@
 <li>Disability:</li>
 <ul style="list-style-type:square">
 <li><a href="https://play.google.com/store/apps/details?id=com.microhealth.app.myvadiagnosesv2">My VA Disability</a> - app which helps veterans with disability calculate their monthly disability compensation</li>
-<dd>-</dd><br>
 <li><a href="https://play.google.com/store/apps/details?id=com.onesolutionapps.disabilityattorneyandroid">Disability Attorney</a> - app which enables disabled citizens to have easier access to lawyers that can help them with their workers compensation, social security disability, and personal injury claims</li>
 </ul>
 <li>Legal Processing:</li>
