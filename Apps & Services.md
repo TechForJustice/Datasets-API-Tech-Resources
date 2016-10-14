@@ -71,6 +71,9 @@
 <li><a href="http://www.legalzoom.com">LegalZoom</a> - provides accessible legal help to average Americans</li>
 <li><a href="http://www.legalswipe.com">Legalswipe</a> - an app that informs people of their rights during interactions with police</li>
 <li><a href="https://www.civilresolutionbc.ca">Civil Resolution Tribunal</a> - Canada’s first online tribunal for resolving strata and small claims disputes</li>
+<li><a href="https://play.google.com/store/apps/details?id=com.absmallbusinessmarketing.askalawyer&hl=en">Ask a Lawyer: Legal Help</a> - allows user to get legal help, ask any legal questions, and find possible representation</li>
+<li><a href="https://www.lawzam.com/">LawZam</a> - a service which connects clients to lawyers for free legal advice</li>
+<li><a href="https://itunes.apple.com/us/app/my-attorney-app/id343058489?mt=8">My Attorney App</a> - app which lets users contact their attorney and keep data for their case or trial</li>
 </ul>
 
 
