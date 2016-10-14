@@ -41,6 +41,7 @@
 <b>GOVERNMENT BENEFITS:</b>
 <ul style="list-style-type:circle">
 <li><a href="http://www.snapfresh.org">SnapFresh</a> - service which finds the closest places that accepts EBT cards</li>
+<li><a href="https://www.mrelief.com/#?category=All">mRelief</a> - a non-profit organization that provides an easy to use online and text messaging tool for low-income Americans to find out if they qualify for social services</li>
 </ul>
 <br>
 <b>GENERAL LAW APPS/SERVICES:</b>
