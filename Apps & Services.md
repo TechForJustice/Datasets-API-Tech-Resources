@@ -36,6 +36,7 @@
 <b>DOMESTIC VIOLENCE:</b>
 <ul style="list-style-type:circle">
 <li><a href="http://nnedv.org/resources/transitional-housing.html">Domestic Violence Toolkit</a> by National Network to End Domestic Violence - provides transitional housing providers with easy access to information and resources to enhance services to domestic violence survivors.</li>
+<li><a href="https://www.whengeorgiasmiled.org/the-aspire-news-app/">Aspire News App</a> - app that contains resources for victims of domestic violence</li>
 <br>
 </ul>
 <b>GOVERNMENT BENEFITS:</b>
