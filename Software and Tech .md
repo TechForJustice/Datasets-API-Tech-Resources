@@ -34,6 +34,7 @@
 <ul style="list-style-type:square">
 <li><a href="http://www.virtualmechanics.com/products/dwarf/">Web Dwarf</a></li>
 <li><a href="http://www.openelement.com/Download.htm">openElement</a></li>
+<li><a href="http://www.wix.com/lpviral/enviral?experiment_id=abtestbanner122400001&utm_campaign=vir_wixad_live">WiX</a>
 </ul>
 
 <li>List of free mobile app & website building platforms:</li>
