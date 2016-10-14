@@ -14,6 +14,9 @@
 <li><a href="https://play.google.com/store/apps/details?id=com.stellar.debtsfree&hl=en">Debt Tracker</a> - app which lets user track and manage their debts</li>
 <li><a href="https://www.youneedabudget.com/">YNAB</a> - app which lets user manage their debts</li>
 <li><a href="https://itunes.apple.com/app/id706366965?mt=8">Level Money</a> - app that lets user track and manage their money to avoid debt</li>
+<li><a href="https://www.learnvest.com/personal-financial-planning-program/">LearnVest</a> - service that provides consumers with a personal financial planner, fully-customized financial plan, and online tools and classes about financial management</li>
+<li><a href="https://itunes.apple.com/us/app/debttracker-pro/id303497125?mt=8">DebtTracke Pro</a> - app which lets user track their finances and debt</li>
+<li><a href="https://itunes.apple.com/us/app/pay-off-debt/id308554006?mt=8">Pay Off Debt</a> - app which helps user plan how to pay off their debt</li>
 </ul>
 <br>
 <b>HOUSING:</b>
@@ -25,6 +28,12 @@
 <li><a href="https://play.google.com/store/apps/details?id=info.NYCHA.Mobile.MyNYCHA&hl=en">My NYCHA</a> by the New York City Housing Authority - app that allows public housing residents to create, submit, schedule, view and update maintenance service requests, view alerts and outages related to their developments, view their scheduled inspections and maintain their contact information via their smartphones and tablets</li>
 <li><a href="https://play.google.com/store/apps/details?id=com.nationwide.evictionApp">Eviction App</a> - app which allows the user to  manage their eviction needs electronically</li>
 <li><a href="https://www.huduser.gov/portal/pdr_mobile.html">PD&R Mobile Apps</a> by US Department of Housing and Urban Development - list of apps created by the US Department of Housing and Urban Development to provide the public with the latest housing research and data</li>
+<li><a href="http://philly.sheltr.org/">Sheltr</a> - mobile-friendly web app that provides information to guide individuals in Philadelphia to an intake center, a place where meals can be accessed, and a place to sleep for the night</li>
+<li><a href="http://weshelter.org/">WeShelter</a> - app that lets user contribute to the homeless in New York City</li>
+<li><a href="https://itunes.apple.com/us/app/street-reach-cincinnati/id1116784336?mt=8">Street Reach Cincinnati</a> - app which allows users to make a report of someone living on the street to the local agencies that will attempt to make contact with the person/s</li>
+<li><a href="https://github.com/shelterconnect">ShelterConnect</a> - open-source platform that optimizes the distribution of food donations in Los Angeles</li>
+<li><a href="https://www.wecount.org/Account/Login">WeCount</a> - helps people safely ask for items they need, and helps community members give directly to their neighbors</li>
+<li><a href="https://www.ourcalling.org/app/">Our App</a> - app that user provides an ample selection of homeless aiding tasks right at their fingertips</li>
 </ul>
 <br>
 <b>DOMESTIC VIOLENCE:</b>
@@ -59,6 +68,7 @@
 <ul style="list-style-type:circle">
 <li><a href="https://itunes.apple.com/ca/app/find-a-health-center/id379940321?mt=8">Find a Health Center</a> by Health Resources and Services Administration - an app which helps the user find the nearest health center in their community by typing a city, state, or ZIP code</li>
 <li><a href="http://cambridgelaw.org/paperhealth/">PaperHealth</a> - an app specifically created for residents of Massachusetts. It enables the user to create a "living will" and lets them assign theiw own HealthCare Proxy</li>
+<li><a href="http://www.augmedix.com/">Augmedix</a> - give health care providers a team of real-time, quality-controlled, and customized remote scribes, accessed through Google Glass</li>
 <br>
 </ul>
 <b>GOVERNMENT BENEFITS:</b>
@@ -73,11 +83,19 @@
 <li><a href="https://play.google.com/store/apps/details?id=com.microhealth.app.myvadiagnosesv2">My VA Disability</a> - app which helps veterans with disability calculate their monthly disability compensation</li>
 <li><a href="https://play.google.com/store/apps/details?id=com.onesolutionapps.disabilityattorneyandroid">Disability Attorney</a> - app which enables disabled citizens to have easier access to lawyers that can help them with their workers compensation, social security disability, and personal injury claims</li>
 </ul>
-<li>Legal Processing:</li>
+<li>Legal Processing/Disputes:</li>
 <ul style="list-style-type:square">
 <li><a href="http://dueprocessr.org/courtcal/">Due Processr</a> - helps determine if someone is eligible for appointed counsel or the waiver of fees, and if not, it  directs the user to a site to help find a lawyer</li>
 <li><a href="http://www.ujuj.org">UJUJ</a> - an online dispute resolution tool that allows parties to a small claims case to create their arguments on video and upload them to the web site for the Internet public to vote on the outcome</li>
 <li><a href="https://otterkids.com/">Otter</a> - enables students to resolve conflicts with peers and adults through Online Dispute Resolution & SEL Monitoring</li>
+<li><a href="http://modria.com/">Modria</a> - an online dispute resoultion service for eCommerce cases</li>
+<li><a href="http://www.youstice.com/en/">Youstice</a> - online dispute resolution service which helps companies seamlessly communicate with their customers and handle claims, so that customers can spend more time shopping and less time making complaints</li>
+<li><a href="https://itunes.apple.com/us/app/fix-a-fight/id376117430?mt=8">Fix-a-fight</a> - app which helps the user resolve a conflict</li>
+<li><a href="https://www.smartsettle.com/">SmartSettle</a> - service which provides users softwares on settling conflicts and disputes</li>
+<li><a href="https://arbitranet.com.br/">Arbitranet</a> - online arbitration chamber in Brazil that offers reliable, secure, and efficient way to resolve conflicts arising from commercial contracts</li>
+<li><a href="http://www.virtualcourthouse.com/">Virtual Courthouse</a> - onlinde dispute resolution service that provides users with experienced arbitrators and mediators</li>
+<li><a href="http://www.peopleclaim.com/">PeopleClaim</a> - online dispute resolution service</li>
+<li><a href="https://www.usaid.gov/results-data/success-stories/virtual-court-rooms-help-colombian-judicial-system">USAID Virtual Courtrooms</a> - virtual courtrooms designed by the USAID</li>
 </ul>
 </ul>
 
