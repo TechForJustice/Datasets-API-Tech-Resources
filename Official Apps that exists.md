@@ -5,6 +5,10 @@
 <li><a href="http://www.debtanalyzer.com/download.htm">Debt Analyzer</a> - software which helps user manage their debt</li>
 <li><a href="https://www.meettally.com">Tally</a> - app which helps the user manage their debt and schedule their debt payments</li>
 <li><a href="https://www.tryremedy.com">Remedy</a> - service which protects consumers from medical bill errors and overcharges</li>
+<li><a href="https://itunes.apple.com/us/app/debt-payoff-assistant/id475099959?mt=8">Debt Payoff</a> - app that helps user payoff all their debts using the popular Debt-snowball method</li>
+<li><a href="https://play.google.com/store/apps/details?id=com.stellar.debtsfree&hl=en">Debt Tracker</a> - app which lets user track and manage their debts</li>
+<li><a href="https://www.youneedabudget.com/">YNAB</a> - app which lets user manage their debts</li>
+<li><a href="https://itunes.apple.com/app/id706366965?mt=8">Level Money</a> - app that lets user track and manage their money to avoid debt</li>
 </ul>
 <br>
 <b>HOUSING:</b>
@@ -30,11 +34,18 @@
 <li><a href="https://www.harborhousefl.com/get-help/r3/">R3</a> - app which helps the user know if they are in an abusive relationship or if someone they know is in an abusive relationship</li>
 <li><a href="http://www.joinonelove.org/my_plan_app">My Plan App</a> - an app that helps women and their friends to determine if a relationship is unsafe and create an action plan to leave safely</li>
 <li><a href="http://documenttheabuse.com">Document The Abuse</a> - provides users with a step by step method to create and record their Evidence Abuse Affidavit</li>
+<li><a href="https://github.com/christyleos/protechme">ProTechMe</a> - chat bot that fills out protective orders quickly and efficiently in Harris County, TX, so that the user can take the form and present to the courthouse without help from a lawyer</li>
+<li><a href="https://github.com/TechForJustice/project-ideas/issues/6">InMyLanguage</a> - tool for limited English-speaking survivors to help them process their domestic violence case</li>
+<li><a href="https://github.com/TechForJustice/project-ideas/issues/4">dvServe</a> - too to get order of protection for domestic violence survivors</li>
+<li><a href="http://www.ctcadv.org/projects-initiatives/td411/">td411</a> - app that provides information to teens on healthy relationship and teen dating violence</li>
+<li><a href="https://play.google.com/store/apps/details?id=com.bipper.app.bsafe">bSafe</a> - a personal safety app designed to keep the user safe from possible emergencies 24/7</li>
+<li><a href="http://www.circleof6app.com/">Circle of 6</a> - personal safety app that lets the user choose up to 6 trusted friends to add to their circle and sends a pre-programmed SMS text with their exact location if they are in danger</li>
 </ul>
 <br>
 <b>HEALTH CARE:</b>
 <ul style="list-style-type:circle">
 <li><a href="https://itunes.apple.com/ca/app/find-a-health-center/id379940321?mt=8">Find a Health Center</a> by Health Resources and Services Administration - an app which helps the user find the nearest health center in their community by typing a city, state, or ZIP code</li>
+<li><a href="http://cambridgelaw.org/paperhealth/">PaperHealth</a> - an app specifically created for residents of Massachusetts. It enables the user to create a "living will" and lets them assign theiw own HealthCare Proxy</li>
 <br>
 </ul>
 <b>GOVERNMENT BENEFITS:</b>
