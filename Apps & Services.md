@@ -74,6 +74,13 @@
 <li><a href="https://play.google.com/store/apps/details?id=com.absmallbusinessmarketing.askalawyer&hl=en">Ask a Lawyer: Legal Help</a> - allows user to get legal help, ask any legal questions, and find possible representation</li>
 <li><a href="https://www.lawzam.com/">LawZam</a> - a service which connects clients to lawyers for free legal advice</li>
 <li><a href="https://itunes.apple.com/us/app/my-attorney-app/id343058489?mt=8">My Attorney App</a> - app which lets users contact their attorney and keep data for their case or trial</li>
+<li><a href="http://www.ecamm.com/mac/phoneview/">PhoneView</a> - allows user to print text messages from their smartphones or tablets</li>
+<li><a href="http://helpmelaw.org/webapp/">HelpMeLaw Legal Aid</a> - service that offers Maine residents free help in finding legal aid</li>
+<li><a href="http://www.donotpay.co.uk/signup.php">DoNotPay</a> - offers free legal help to the homeless and refugees</li>
+<li><a href="https://play.google.com/store/apps/details?id=com.agilelaw.deposition&hl=en">AgileLaw</a>- app that lets lawyers work paper free by uploading documents and PDFs needed for deposition</li>
+<li><a href="https://play.google.com/store/apps/details?id=com.rosway.genesis&hl=en">CaseSync</a> - cloud-based legal management that allows law firms to save and access their data in the cloud</li>
+<li><a href="https://play.google.com/store/apps/details?id=com.fiftysteps.droid.trial.dike&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS5maWZ0eXN0ZXBzLmRyb2lkLnRyaWFsLmRpa2UiXQ..">Dike trial: Calendar 4 Lawyers</a> - calendar app specifically made for lawyers to organize and track their case hearings</li>
+<li><a href="https://play.google.com/store/apps/details?id=com.hellosign">HelloSign</a> - lets user scan, edit, and sign their documents on their smartphones</li>
 </ul>
 
 
