@@ -62,6 +62,7 @@
 <li><a href="https://guardianproject.info/apps/camerav">Camera V</a> - app which captures and shares verifiable photos and video proof on a smartphone or tablet, all the while keeping it entirely secure and private</li>
 <li><a href="https://www.wickr.com/">Wickr</a> - messenger app which lets the user send encrypted text messages, videos, and photos from their smartphones</li>
 <li><a href="https://apps.facebook.com/predator-alert-tool/">Predator Alert Tool on Facebook</a> - Facebook service that allows sexual assault and domestic violence survivors to anonymously share information about the people in their social network who may be dangerous</li>
+<li><a href="https://github.com/betterangels/buoy/wiki">Buoy</a> - a decentralized 9-1-1 alternative built for and by people who are not well served by existing emergency response services</li>
 </ul>
 <br>
 <b>HEALTH CARE:</b>
