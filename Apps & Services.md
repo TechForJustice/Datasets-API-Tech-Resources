@@ -10,6 +10,9 @@
 <li><a href="https://www.lendingclub.com">Lending club</a> - provides personal loans, business loans, and finacing for elective medical procedures with low interest rates</li>
 <li><a href="https://www.upstart.com">Upstart</a> - provides loans with low interest rates</li>
 <li><a href="https://www.readyforzero.com">Ready for zero</a> - app which helps the user manage and reduce their debts</li>
+<li><a href="http://www.suzeorman.com/calculators/">Suze Orman Calculators</a> - special calculators that helps the user calculate their debts</li>
+<li><a href="https://www.mint.com/">Mint</a> - offers services such as money management, budgeting, and investing</li>
+<li><a href="https://www.youneedabudget.com/learn/classes">YNAB Classes</a> - free classes on money management offered by You Need A Budget</li>
 <li><a href="http://www.consumerfinance.gov/complaint/">Various debt collection complaint forms</a> by Consumer Financial Protection Bureau</li>
 <li><a href="https://www.usa.gov/consumer-complaints">Information about filing a consumer complaint</a> by usa.gov</li>
 <li><a href="http://www.credit.org/our-services/">Credit counseling services</a> by credit.org</li>
