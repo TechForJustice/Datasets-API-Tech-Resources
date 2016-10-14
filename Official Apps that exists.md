@@ -15,7 +15,7 @@
 <li><a href="https://www.youneedabudget.com/">YNAB</a> - app which lets user manage their debts</li>
 <li><a href="https://itunes.apple.com/app/id706366965?mt=8">Level Money</a> - app that lets user track and manage their money to avoid debt</li>
 <li><a href="https://www.learnvest.com/personal-financial-planning-program/">LearnVest</a> - service that provides consumers with a personal financial planner, fully-customized financial plan, and online tools and classes about financial management</li>
-<li><a href="https://itunes.apple.com/us/app/debttracker-pro/id303497125?mt=8">DebtTracke Pro</a> - app which lets user track their finances and debt</li>
+<li><a href="https://itunes.apple.com/us/app/debttracker-pro/id303497125?mt=8">DebtTracker Pro</a> - app which lets user track their finances and debt</li>
 <li><a href="https://itunes.apple.com/us/app/pay-off-debt/id308554006?mt=8">Pay Off Debt</a> - app which helps user plan how to pay off their debt</li>
 </ul>
 <br>
