@@ -1,4 +1,9 @@
 # Official Apps that exists
+<b>GRANT REPORTING:</b>
+<ul style:"list-style-type-circle">
+<li><a href="https://www.grantvantage.com/">Grantvantage</a> - software that gives project managers a complete, top-down view of all grants, contracts, sub-awards, objectives, performance measures, activities, and staff assignments</li>
+</ul>
+<br>
 <b>CONSUMER DEBT:</b>
 <ul style="list-style-type:circle">
 <li><a href="https://www.thebalance.com/debt-reduction-software-options-1293531">List of debt reduction software</a></li>
@@ -40,6 +45,14 @@
 <li><a href="http://www.ctcadv.org/projects-initiatives/td411/">td411</a> - app that provides information to teens on healthy relationship and teen dating violence</li>
 <li><a href="https://play.google.com/store/apps/details?id=com.bipper.app.bsafe">bSafe</a> - a personal safety app designed to keep the user safe from possible emergencies 24/7</li>
 <li><a href="http://www.circleof6app.com/">Circle of 6</a> - personal safety app that lets the user choose up to 6 trusted friends to add to their circle and sends a pre-programmed SMS text with their exact location if they are in danger</li>
+<li><a href="https://itunes.apple.com/us/app/hollaback/id379866261?mt=8">Hollaback!</a> - app to help provide proof that street harassment is a serious problem warranting a serious response from policymakers</li>
+<li><a href="http://www.safenightapp.org/">SafeNight</a> - app that alerts individual donors to fund hotel rooms when local domestic violence shelters are full</li>
+<li><a href="https://play.google.com/store/apps/details?id=com.appriss.vinemobile">VINEmobile</a> - app that allows victims to register for timely and reliable information regarding the custody status of offenders 24 hours a day</li>
+<li><a href="https://itunes.apple.com/us/app/stopastalker/id645238415?mt=8&ign-mpt=uo%3D4%253E">StopaStalker</a> - app that lets user collect information about their potential stalker and and report it to the authorities</li>
+<li><a href="https://play.google.com/store/apps/details?id=org.gwennetwork.mobile&hl=en">GWEN Alert</a> - a personal safety app to aid users in getting immediate help in an emergency</li>
+<li><a href="https://guardianproject.info/apps/camerav">Camera V</a> - app which captures and shares verifiable photos and video proof on a smartphone or tablet, all the while keeping it entirely secure and private</li>
+<li><a href="https://www.wickr.com/">Wickr</a> - messenger app which lets the user send encrypted text messages, videos, and photos from their smartphones</li>
+<li><a href="https://apps.facebook.com/predator-alert-tool/">Predator Alert Tool on Facebook</a> - Facebook service that allows sexual assault and domestic violence survivors to anonymously share information about the people in their social network who may be dangerous</li>
 </ul>
 <br>
 <b>HEALTH CARE:</b>
