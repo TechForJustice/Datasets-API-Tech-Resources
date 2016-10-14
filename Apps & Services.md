@@ -87,6 +87,7 @@
 <li><a href="https://play.google.com/store/apps/details?id=com.rosway.genesis&hl=en">CaseSync</a> - cloud-based legal management that allows law firms to save and access their data in the cloud</li>
 <li><a href="https://play.google.com/store/apps/details?id=com.fiftysteps.droid.trial.dike&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS5maWZ0eXN0ZXBzLmRyb2lkLnRyaWFsLmRpa2UiXQ..">Dike trial: Calendar 4 Lawyers</a> - calendar app specifically made for lawyers to organize and track their case hearings</li>
 <li><a href="https://play.google.com/store/apps/details?id=com.hellosign">HelloSign</a> - lets user scan, edit, and sign their documents on their smartphones</li>
+<li><a href="http://www.i-courthouse.com/main.taf?&redir=0">iCourthouse</a> -  online courthouse where you can present your disputes for trial before a jury of your peers, any time, for any reason</li>
 </ul>
 
 
