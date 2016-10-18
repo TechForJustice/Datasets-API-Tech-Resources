@@ -6,6 +6,8 @@ These are all the resources gathered by Tech For Justice to be utilized in this 
 <br>
 <a href="https://github.com/TechForJustice/Datasets-API-Tech-Resources/blob/master/API.md">API</a><br>
 <br>
+<a href="https://github.com/TechForJustice/Datasets-API-Tech-Resources/blob/master/Official%20Apps%20that%20exists.md">Current Solutions/Apps</a><br>
+<br>
 <a href="https://github.com/TechForJustice/Datasets-API-Tech-Resources/blob/master/Apps%20%26%20Services.md">Apps and Services</a><br>
 <br>
 <a href="https://github.com/TechForJustice/Datasets-API-Tech-Resources/blob/master/Software%20and%20Tech%20.md">Software and Tech Resources</a><br>
