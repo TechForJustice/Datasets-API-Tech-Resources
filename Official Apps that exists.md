@@ -72,7 +72,7 @@
 <li><a href="http://www.augmedix.com/">Augmedix</a> - give health care providers a team of real-time, quality-controlled, and customized remote scribes, accessed through Google Glass</li>
 <br>
 </ul>
-<b>GOVERNMENT BENEFITS:</b>
+<b>GOVERNMENT:</b>
 <ul style="list-style-type:circle">
 <li>Food Stamps:</li>
 <ul style="list-style-type:square">
