@@ -60,6 +60,15 @@
 <li><a href="https://www.benefits.gov/benefits/browse-by-state">List of government benefits by state</a> collected by benefits.gov</li>
 </ul>
 <br>
+<b>LAW ENFORCEMENT:</b><br>
+<ul style="list-style-type:circle">
+<li><a href="https://publicsafetydataportal.org/developers/">Public Safety Open Data Portal</a></li>
+<li><a href="http://www.bjs.gov/rawdata.cfm">Raw data from Bureau of Justice Statistics</a></li>
+<li><a href="http://www.nij.gov/publications/pages/datasets.aspx">Datasets from NIJ-Funded Research</a></li>
+<li><a href="https://catalog.data.gov/dataset?tags=police">Data.gov Police Search</a></li>
+<li><a href="https://data.cityofchicago.org/">City of Chicago Data</a></li>
+</ul>
+<br>
 <b>GENERAL DATA & OTHER HELPFUL INFORMATION:</b>
 <ul style="list-style-type:circle">
 <li><a href="https://catalog.data.gov/dataset/census-of-governments">Census of Governments</a> by US Census Bureau</li>
