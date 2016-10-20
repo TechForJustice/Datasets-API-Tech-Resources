@@ -7,6 +7,7 @@
 <b>CONSUMER DEBT:</b>
 <ul style="list-style-type:circle">
 <li><a href="https://www.thebalance.com/debt-reduction-software-options-1293531">List of debt reduction software</a></li>
+<li><a href="http://www.donotpay.co.uk/">Do Not Pay</a>, The World's First Robot Lawyer, helps with parking tickets</li>
 <li><a href="http://www.debtanalyzer.com/download.htm">Debt Analyzer</a> - software which helps user manage their debt</li>
 <li><a href="https://www.meettally.com">Tally</a> - app which helps the user manage their debt and schedule their debt payments</li>
 <li><a href="https://www.tryremedy.com">Remedy</a> - service which protects consumers from medical bill errors and overcharges</li>
@@ -100,7 +101,13 @@
 </ul>
 </ul>
 
-
+<b>Robot Lawyers:</b>
+<ul style="list-style-type:circle">
+<li><a href="http://www.rossintelligence.com/">ROSS</a> is an A.I. lawyer that helps human lawyers research faster and focus on advising clients.</li>
+<li><a href="http://www.donotpay.co.uk/">Do Not Pay</a>, The World's First Robot Lawyer, helps with parking tickets</li>
+<li><a href="https://www.legalrobot.com/">Legal Robot</a> Artificial Intelligence for Legal Documents</li>
+<li><a href="http://lawbot.info">LawBot</a> is a chatbot lawyer that helps you understand the laws surrounding major criminal offences in England & Wales. </li>
+</ul>
 
 
 
