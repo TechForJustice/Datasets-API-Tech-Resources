@@ -22,4 +22,6 @@
 <dd>- USA Spending is a publicly available, searchable website that provides the American public access to information on entities and organizations receiving federal funds.</dd><br>
 <li><a href="https://api.avvo.com">Avvo</a></li>
 <dd>- Avvo API allows access to information from Avvo's lawyer directory.</dd><br>
+<li><a href="https://developers.google.com/apis-explorer/#p/">Google API</a></li>
+<dd>- Various API from Google</dd><br>
 </ul>
