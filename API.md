@@ -24,4 +24,6 @@
 <dd>- Avvo API allows access to information from Avvo's lawyer directory.</dd><br>
 <li><a href="https://developers.google.com/apis-explorer/#p/">Google API</a></li>
 <dd>- Various API from Google</dd><br>
+<li><a href="https://developers.google.com/maps/documentation/">Google Maps</a></li>
+<dd>- API for Google Maps</dd><br>
 </ul>
