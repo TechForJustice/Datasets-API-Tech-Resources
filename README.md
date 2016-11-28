@@ -1,4 +1,4 @@
-<strong>Legal Justice Hackathon Resources</strong><br>
+<strong>Hackathon Resources</strong><br>
 These are all the resources gathered by Tech For Justice to be utilized in this Hackathon. The resources gathered are open to the public and are free to use. You and your team can use these resources to help develop and create your solutions to the problem sets. Each resource section is arranged by their appropriate category. Click on the links below to access them.<br>
 <br>
 <br>
