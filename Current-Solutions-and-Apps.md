@@ -136,9 +136,7 @@ Choose an area:
 <br>
 # LEGAL AID
 <ul style="list-style-type:circle">
-<li><a href="http://ptla.org/pine-trees-legal-aid-apps">Legal Aid News</a> - Users can employ the app to search for general legal aid news or new developments in legal aid on a state-by-state basis, as well as updated info on national legal centers for low-income people and news on the Legal Services Corp</li>
-<li><a href="http://www.legal-aid.org/en/civil/civilpractice.aspx">The Legal Aid Society</a> - a non-profit organization that provides free legal services for people who cannot afford to pay for counsel</li>
-<li><a href="https://itunes.apple.com/us/app/legal-aid-news/id482957565?mt=8">Legal Aid News</a> - app which provides legal aid news nationally or by state.</li>
+<li><a href="https://play.google.com/store/apps/details?id=org.ptla.News">Legal Aid News</a> - Users can employ the app to search for general legal aid news or new developments in legal aid on a state-by-state basis, as well as updated info on national legal centers for low-income people and news on the Legal Services Corp</li>
 <li><a href="https://ptla.org/finder/">Legal Aid Finder by state</a> - service which enables the user to find legal aid programs around the country</li>
 <li><a href="http://helpmelaw.org/webapp/">HelpMeLaw Legal Aid</a> - service that offers Maine residents free help in finding legal aid</li>
 </ul>
