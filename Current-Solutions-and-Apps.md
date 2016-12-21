@@ -1,10 +1,35 @@
-<b>GRANT REPORTING:</b>
+Choose an area: 
+[Grant Reporting](grant-reporting)
+<br>
+[Consumer Debt](consumer-debt) 
+<br>
+[Housing](housing)
+<br>
+[Domestic Violence](domestic-violence) 
+<br>
+[Health care](health-care)
+<br>
+[Disability](disability)
+<br>
+[Dispute Resolution](dispute-resolution) 
+<br>
+[Robot Lawyers](robot-lawyers)
+<br>
+[General Law](General Law) 
+<br>
+[Immigration](immigration) 
+<br>
+[Veterans](veterans)
+<br>
+[Other Justice Apps](other-justice-apps)
+<br>
+# GRANT REPORTING
 <ul style:"list-style-type-circle">
 <li><a href="https://www.grantvantage.com/">Grantvantage</a> - software that gives project managers a complete, top-down view of all grants, contracts, sub-awards, objectives, performance measures, activities, and staff assignments</li>
 <li><a href="http://crcamerica.org/resources/common-grant-forms/">Common grant forms</a> by Community Resource Center America - these common grant forms by CRC allows Colorado grantseekers to use a single form for many different applications and reports</li>
 </ul>
 <br>
-<b>CONSUMER DEBT:</b>
+# CONSUMER DEBT
 <ul style="list-style-type:circle">
 <li><a href="https://debtlookup.com">Debtlookup</a> - free service which provides scecure and easy access to account-level data and documents supporting claims by legitimate debit collectors.</li>
 <li><a href="https://www.lendingclub.com">Lending club</a> - provides personal loans, business loans, and finacing for elective medical procedures with low interest rates</li>
@@ -37,7 +62,7 @@
 <li><a href="https://itunes.apple.com/us/app/pay-off-debt/id308554006?mt=8">Pay Off Debt</a> - app which helps user plan how to pay off their debt</li>
 </ul>
 <br>
-<b>HOUSING:</b>
+# HOUSING
 <ul style="list-style-type:circle">
 <li><a href="https://play.google.com/store/apps/details?id=resources.hud.gov.resourcelocator_android">HUD Resource Locator</a> by US Department of Housing and Urban Development - app that helps users discover commonly requested federal housing resources within their community</li>
 <li><a href="https://itunes.apple.com/us/app/hud-counselor-locator/id659590295?ls=1&mt=8">HUD Counselor Locator</a> by US Department of Housing and Urban Development - app that allows users to search for counseling agencies based on location and available languages.</li>
@@ -57,7 +82,7 @@
 <li><a href="http://www.link-sf.com">Link-SF</a> -  website that connects homeless and low-income residents with critical and life-saving resources nearby</li>
 </ul>
 <br>
-<b>DOMESTIC VIOLENCE:</b>
+# DOMESTIC VIOLENCE
 <ul style="list-style-type:circle">
 <li><a href="https://play.google.com/store/apps/details?id=com.tracen.domviol">Domestic Violence Prevention</a> by Department of Navy's Sea Warrior Program Office - a mobile training and resource tool that provides easy access to information that satisfies the Navy's General Military Training (GMT) requirements for Domestic Violence Prevention</li>
 <li><a href="https://play.google.com/store/apps/details?id=com.lifeislife.whiz2083.pocketbook">Purple PocketBook</a> - an app for helping women get information on local shelters, legal information as well as a questionnaire to know if you are in a potential domestic violence situation</li>
@@ -91,7 +116,7 @@
 <li><a href="https://www.mrelief.com/#?category=All">mRelief</a> - a non-profit organization that provides an easy to use online and text messaging tool for low-income Americans to find out if they qualify for social services</li>
 </ul>
 <br>
-<b>HEALTH CARE:</b>
+# HEALTH CARE
 <ul style="list-style-type:circle">
 <li><a href="https://itunes.apple.com/ca/app/find-a-health-center/id379940321?mt=8">Find a Health Center</a> by Health Resources and Services Administration - an app which helps the user find the nearest health center in their community by typing a city, state, or ZIP code</li>
 <li><a href="https://www.healthlawyers.org/hlresources/PI/Pages/ProBonoToolkit.aspx">American Health Lawyers Association Pro-Bono Kit</a> (for health lawyers)</li>
@@ -99,21 +124,19 @@
 <li><a href="http://www.augmedix.com/">Augmedix</a> - give health care providers a team of real-time, quality-controlled, and customized remote scribes, accessed through Google Glass</li>
 <br>
 </ul>
-<b>GOVERNMENT:</b>
+# GOVERNMENT (EDITS NEEDED)
 <ul style="list-style-type:circle">
-<li>Food Stamps:</li>
-<ul style="list-style-type:square">
 <li><a href="https://play.google.com/store/apps/details?id=com.w2cyk.android.balance4ebtfree&hl=en">Balance 4 SNAP and EBT</a> - an app that lets users register on their system to check their SNAP and EBT card balance</li>
 <li><a href="https://play.google.com/store/apps/details?id=com.propel.ebenefits&hl=en">Fresh EBT</a> - app that lets users check their EBT card balance through entering their EBT/food stamp information on their smartphones</li>
 <li><a href="https://devpost.com/software/disastr">Disastr</a> - it offers access to disaster relief, breaking news and links to legal professionals who can help in the aftermath of a catastrophe. Included is advice on getting food stamps and health care, and navigating insurance after a natural disaster.</li>
 </ul>
-<li>Disability:</li>
-<ul style="list-style-type:square">
+# DISABILITY
+<ul style="list-style-type:circle">
 <li><a href="https://play.google.com/store/apps/details?id=com.microhealth.app.myvadiagnosesv2">My VA Disability</a> - app which helps veterans with disability calculate their monthly disability compensation</li>
 <li><a href="https://play.google.com/store/apps/details?id=com.onesolutionapps.disabilityattorneyandroid">Disability Attorney</a> - app which enables disabled citizens to have easier access to lawyers that can help them with their workers compensation, social security disability, and personal injury claims</li>
 </ul>
-<li>Legal Processing/Disputes:</li>
-<ul style="list-style-type:square">
+# DISPUTE RESOLUTION
+<ul style="list-style-type:circle">
 <li><a href="http://dueprocessr.org/courtcal/">Due Processr</a> - helps determine if someone is eligible for appointed counsel or the waiver of fees, and if not, it  directs the user to a site to help find a lawyer</li>
 <li><a href="http://www.ujuj.org">UJUJ</a> - an online dispute resolution tool that allows parties to a small claims case to create their arguments on video and upload them to the web site for the Internet public to vote on the outcome</li>
 <li><a href="https://otterkids.com/">Otter</a> - enables students to resolve conflicts with peers and adults through Online Dispute Resolution & SEL Monitoring</li>
@@ -129,7 +152,7 @@
 </ul>
 </ul>
 <br>
-<b>Robot Lawyers:</b>
+# ROBOT LAWYERS
 <ul style="list-style-type:circle">
 <li><a href="http://www.rossintelligence.com/">ROSS</a> is an A.I. lawyer that helps human lawyers research faster and focus on advising clients.</li>
 <li><a href="http://www.donotpay.co.uk/">Do Not Pay</a>, The World's First Robot Lawyer, helps with parking tickets</li>
@@ -137,7 +160,7 @@
 <li><a href="http://lawbot.info">LawBot</a> is a chatbot lawyer that helps you understand the laws surrounding major criminal offences in England & Wales. </li>
 </ul>
 <br>
-<b>GENERAL LAW:</b>
+# GENERAL LAW
 <ul style="list-style-type:circle">
 <li><a href="https://play.google.com/store/apps/details?id=com.absmallbusinessmarketing.askalawyer&hl=en">Ask a Lawyer</a> - allows user to get legal help, ask any legal questions, and find possible representation</li>
 <li><a href="https://www.berniesez.com">Bernie Sez</a> - allows users to take a picture of a ticket or other paperwork having to do with the charge filed, and upload it to the cloud, where scores of competing lawyers look over the case and compete to represent the user</li>
@@ -184,18 +207,18 @@
 <li><a href="http://www.i-courthouse.com/main.taf?&redir=0">iCourthouse</a> -  online courthouse where you can present your disputes for trial before a jury of your peers, any time, for any reason</li>
 </ul>
 <br>
-<b>IMMIGRATION:</b>
+# IMMIGRATION
 <ul style="list-style-type:circle">
 <li><a href="https://www.citizenshipworks.org">Citizenshipworks</a> - walks eligible immigrants through the naturalization process. Using the app, they’re able to determine their eligibility to become a U.S. citizen, find out what documents they need to make it happen, and discover access to free and low-cost legal help for naturalization.</li>
 <li><a href="http://www.lawhelpmn.org/resource/pocket-daca">Pocket DACA</a> - a helpful self-screening tool for foreign children living in the U.S. without the proper immigration paperwork</li>
 </ul>
 <br>
-<b>VETERANS:</b>
+# VETERANS
 <ul style="list-style-type:circle">
 <li><a href="https://www.whitehouse.gov/blog/2012/01/23/celebrating-our-veterans-apps-heroes">Apps for Heroes</a></li>
 </ul>
 <br>
-<b>OTHER JUSTICE APPS:</b>
+# OTHER JUSTICE APPS
 <ul style="list-style-type:circle">
 <li><a href="https://www.dol.gov/general/apps/timesheet">DOL - Timesheet</a> - used to record the hours an employee works, and it automatically calculates overtime at time-and-a-half the regular rate of pay.</li>
 <li><a href="https://www.fbi.gov/news/stories/child_080511">FBI Child ID</a> - provides a convenient place to electronically store photos and vital information about your children so that it’s literally right at hand if you need it.</li>
@@ -209,9 +232,3 @@
 <li><a href="http://www.washingtonpost.com/wp-srv/special/local/dc-shot-spotter/">DC ShotSpotter</a> - uses a microphone network to identify the audio signature of a gunshot, triangulates its location and notifies police</li>
 </ul>
 <br>
-
-
-
-
-
-
