@@ -4,6 +4,7 @@ Choose an area:
 <ul style:"list-style-type-circle">
 <li><a href="https://www.grantvantage.com/">Grantvantage</a> - software that gives project managers a complete, top-down view of all grants, contracts, sub-awards, objectives, performance measures, activities, and staff assignments</li>
 <li><a href="http://crcamerica.org/resources/common-grant-forms/">Common grant forms</a> by Community Resource Center America - these common grant forms by CRC allows Colorado grantseekers to use a single form for many different applications and reports</li>
+<li><a href="https://docs.google.com/presentation/d/1BmcXKBkmJVL-Ia7dKHwKD1jGITnWtyVtfM-nkW2xH9I/pub?start=true&loop=true&delayms=10000&slide=id.p">Legal Aid Grants: Open Data Standard</a> - Proposed at the Legal Justice Hackathon</li> 
 </ul>
 <br>
 # CONSUMER DEBT
