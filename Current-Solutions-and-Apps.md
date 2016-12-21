@@ -123,6 +123,7 @@ Choose an area:
 <li><a href="http://www.virtualcourthouse.com/">Virtual Courthouse</a> - onlinde dispute resolution service that provides users with experienced arbitrators and mediators</li>
 <li><a href="http://www.peopleclaim.com/">PeopleClaim</a> - online dispute resolution service</li>
 <li><a href="https://www.usaid.gov/results-data/success-stories/virtual-court-rooms-help-colombian-judicial-system">USAID Virtual Courtrooms</a> - virtual courtrooms designed by the USAID</li>
+<li><a href="https://www.civilresolutionbc.ca">Civil Resolution Tribunal</a> - Canada’s first online tribunal for resolving strata and small claims disputes</li>
 </ul>
 </ul>
 <br>
@@ -153,35 +154,20 @@ Choose an area:
 <li><a href="http://myattorneyapp.com">My Attorney App</a> - clients can store background information, witness information and photographs associated with cases, in addition to dialing or texting their attorneys.</li>
 <li><a href="http://www.stellutelaw.com/stelluteapp/app/index.html">The Stellute Law App</a> - designed for Virginia drivers who need guidance at an accident scene.</li>
 <li><a href="https://free.law/recap/">RECAP Project</a> - a free extension for Firefox and Chrome that improves the experience of using PACER, the electronic public access system for the U.S. Federal District and Bankruptcy Courts.</li>
-<li><a href="https://openadvocate.org/dlaw/">DLAW</a> -  a Drupal distribution for building public information websites. </li>
-<li><a href="http://www.abajournal.com/magazine/article/20_apps_providing_easier_access_to_legal_help">List of apps for easier access to legal help</a> by American Bar Associaton</li>
-<li><a href="http://heavy.com/tech/2015/08/top-5-best-free-legal-law-laywer-for-iphone-android/">List of free legal apps for smartphones</a></li>
-<li><a href="https://itunes.apple.com/us/app/signeasy-fill-sign-documents/id381786507?mt=8">SignEasy</a> - app which enables the user to sign documents on therir smartphones</li>
-<li><a href="https://www.box.com/pricing/personal">Box</a> - service that provides file sharing and management</li>
 <li><a href="https://play.google.com/store/apps/details?id=com.shake.android">Shake</a> - app that can create, sign and send legally binding agreements</li>
-<li><a href="https://evernote.com/pricing/">Evernote</a> - an app designed to organize and archive files</li>
-<li><a href="https://play.google.com/store/apps/details?id=com.thegrizzlylabs.geniusscan.free&hl=en">Genius Scan</a> - scanner app that quickly scans documents on the go and exports it as JPEG or PDF with multiple pages</li>
-<li><a href="https://play.google.com/store/apps/details?id=com.appxy.tinyscanner">Tiny Scanner</a> - scanner app that turns the smartphone into a portable document scanner and scan everything as images or PDFs</li>
-<li><a href="https://play.google.com/store/apps/details?id=com.microsoft.office.officelens">Office Lens</a>- scanner app that turns the smartphone into a portable scanner. It can also convert images into PDF files and PowerPoint files</li>
 <li><a href="https://play.google.com/store/search?q=droidlaw">Droid Law</a> - an app which indexes various state and federal laws</li>
 <li><a href="https://itunes.apple.com/us/app/legal-edge/id333365053?mt=8">Legal Edge</a> - app that streams free legal content written by experts in all areas of the law</li>
 <li><a href="https://itunes.apple.com/us/app/fastcase/id352470511?mt=8">Fastcase</a> - app that contains cases and statutes from all 50 states and from the federal government</li>
 <li><a href="http://www.pocketjustice.com">PocketJustice</a> - app that contains details on more than 600 constitutional law cases and users can access any public recorded session</li>
 <li><a href="https://itunes.apple.com/us/app/global-law/id842560569?mt=8">Global Law</a> - app which brings the latest worlwide news on international legal developments</li>
 <li><a href="https://itunes.apple.com/ca/app/standin/id972138344?mt=8">StandIn</a> -  location-based app that matches lawyers with other lawyers, agents and legal professionals for court appearances.</li>
-<li><a href="https://itunes.apple.com/us/app/law-dictionary-guide/id382017848?mt=8">Law Dictionary & Guide</a> - dictionary app about legal jargon</li>
+<li><a href="https://itunes.apple.com/us/app/law-dictionary-guide/id382017848?mt=8">Law Dictionary/Guide</a> - dictionary app about legal jargon</li>
 <li><a href="https://itunes.apple.com/us/app/scotusblog/id723205705?mt=8">SCOTUSblog</a> - app which keeps the user up-to-date with the latest Supreme Court news</li>
 <li><a href="http://www.legalzoom.com">LegalZoom</a> - provides accessible legal help to average Americans</li>
 <li><a href="http://www.legalswipe.com">Legalswipe</a> - an app that informs people of their rights during interactions with police</li>
-<li><a href="https://www.civilresolutionbc.ca">Civil Resolution Tribunal</a> - Canada’s first online tribunal for resolving strata and small claims disputes</li>
-<li><a href="https://play.google.com/store/apps/details?id=com.absmallbusinessmarketing.askalawyer&hl=en">Ask a Lawyer: Legal Help</a> - allows user to get legal help, ask any legal questions, and find possible representation</li>
-<li><a href="https://www.lawzam.com/">LawZam</a> - a service which connects clients to lawyers for free legal advice</li>
-<li><a href="https://itunes.apple.com/us/app/my-attorney-app/id343058489?mt=8">My Attorney App</a> - app which lets users contact their attorney and keep data for their case or trial</li>
 <li><a href="https://play.google.com/store/apps/details?id=com.agilelaw.deposition&hl=en">AgileLaw</a>- app that lets lawyers work paper free by uploading documents and PDFs needed for deposition</li>
 <li><a href="https://play.google.com/store/apps/details?id=com.rosway.genesis&hl=en">CaseSync</a> - cloud-based legal management that allows law firms to save and access their data in the cloud</li>
 <li><a href="https://play.google.com/store/apps/details?id=com.fiftysteps.droid.trial.dike&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS5maWZ0eXN0ZXBzLmRyb2lkLnRyaWFsLmRpa2UiXQ..">Dike trial: Calendar 4 Lawyers</a> - calendar app specifically made for lawyers to organize and track their case hearings</li>
-<li><a href="https://play.google.com/store/apps/details?id=com.hellosign">HelloSign</a> - lets user scan, edit, and sign their documents on their smartphones</li>
-<li><a href="http://www.i-courthouse.com/main.taf?&redir=0">iCourthouse</a> -  online courthouse where you can present your disputes for trial before a jury of your peers, any time, for any reason</li>
 </ul>
 <br>
 # IMMIGRATION
