@@ -140,6 +140,7 @@ Choose an area:
 <li><a href="https://play.google.com/store/apps/details?id=org.ptla.News">Legal Aid News</a> - Users can employ the app to search for general legal aid news or new developments in legal aid on a state-by-state basis, as well as updated info on national legal centers for low-income people and news on the Legal Services Corp</li>
 <li><a href="https://ptla.org/finder/">Legal Aid Finder by state</a> - service which enables the user to find legal aid programs around the country</li>
 <li><a href="http://helpmelaw.org/webapp/">HelpMeLaw Legal Aid</a> - service that offers Maine residents free help in finding legal aid</li>
+<li><a href="https://play.google.com/store/apps/details?id=org.ilao.LegalAidApp&hl=en">Illinois Legal Aid App</a>- a field guide to Illinois law. Get easy to understand legal tools for issues like divorce, custody, criminal records, small claims, eviction, foreclosure, unemployment, name change, guardianship and more. 
 </ul>
 <br>
 # PRO BONO
