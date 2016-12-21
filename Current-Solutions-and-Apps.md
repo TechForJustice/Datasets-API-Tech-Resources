@@ -1,29 +1,5 @@
 Choose an area: 
 <br>
-[Grant Reporting](grant-reporting)
-<br>
-[Consumer Debt](consumer-debt) 
-<br>
-[Housing](housing)
-<br>
-[Domestic Violence](domestic-violence) 
-<br>
-[Health care](health-care)
-<br>
-[Disability](disability)
-<br>
-[Dispute Resolution](dispute-resolution) 
-<br>
-[Robot Lawyers](robot-lawyers)
-<br>
-[General Law](General Law) 
-<br>
-[Immigration](immigration) 
-<br>
-[Veterans](veterans)
-<br>
-[Other Justice Apps](other-justice-apps)
-<br>
 # GRANT REPORTING
 <ul style:"list-style-type-circle">
 <li><a href="https://www.grantvantage.com/">Grantvantage</a> - software that gives project managers a complete, top-down view of all grants, contracts, sub-awards, objectives, performance measures, activities, and staff assignments</li>
