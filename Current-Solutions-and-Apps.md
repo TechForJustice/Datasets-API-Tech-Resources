@@ -79,7 +79,6 @@ Choose an area:
 <li><a href="https://itunes.apple.com/us/app/hollaback/id379866261?mt=8">Hollaback!</a> - app to help provide proof that street harassment is a serious problem warranting a serious response from policymakers</li>
 <li><a href="http://www.safenightapp.org/">SafeNight</a> - app that alerts individual donors to fund hotel rooms when local domestic violence shelters are full</li>
 <li><a href="https://play.google.com/store/apps/details?id=com.appriss.vinemobile">VINEmobile</a> - app that allows victims to register for timely and reliable information regarding the custody status of offenders 24 hours a day</li>
-<li><a href="https://itunes.apple.com/us/app/stopastalker/id645238415?mt=8&ign-mpt=uo%3D4%253E">StopaStalker</a> - app that lets user collect information about their potential stalker and and report it to the authorities</li>
 <li><a href="https://play.google.com/store/apps/details?id=org.gwennetwork.mobile&hl=en">GWEN Alert</a> - a personal safety app to aid users in getting immediate help in an emergency</li>
 <li><a href="https://guardianproject.info/apps/camerav">Camera V</a> - app which captures and shares verifiable photos and video proof on a smartphone or tablet, all the while keeping it entirely secure and private</li>
 <li><a href="https://www.wickr.com/">Wickr</a> - messenger app which lets the user send encrypted text messages, videos, and photos from their smartphones</li>
@@ -88,8 +87,6 @@ Choose an area:
 <li><a href="https://radaris.com/page/mob">Sex Offender Search</a> - users can pull up such info as address, date of birth and the charges filed against the offender.</li>
 <li><a href="http://nnedv.org/resources/transitional-housing.html">Domestic Violence Toolkit</a> by National Network to End Domestic Violence - provides transitional housing providers with easy access to information and resources to enhance services to domestic violence survivors.</li>
 <li><a href="https://www.whengeorgiasmiled.org/the-aspire-news-app/">Aspire News App</a> - app that contains resources for victims of domestic violence</li>
-<li><a href="http://www.snapfresh.org">SnapFresh</a> - service which finds the closest places that accepts EBT cards</li>
-<li><a href="https://www.mrelief.com/#?category=All">mRelief</a> - a non-profit organization that provides an easy to use online and text messaging tool for low-income Americans to find out if they qualify for social services</li>
 </ul>
 <br>
 # HEALTH CARE
@@ -98,6 +95,8 @@ Choose an area:
 <li><a href="https://www.healthlawyers.org/hlresources/PI/Pages/ProBonoToolkit.aspx">American Health Lawyers Association Pro-Bono Kit</a> (for health lawyers)</li>
 <li><a href="http://cambridgelaw.org/paperhealth/">PaperHealth</a> - an app specifically created for residents of Massachusetts. It enables the user to create a "living will" and lets them assign theiw own HealthCare Proxy</li>
 <li><a href="http://www.augmedix.com/">Augmedix</a> - give health care providers a team of real-time, quality-controlled, and customized remote scribes, accessed through Google Glass</li>
+<li><a href="http://www.snapfresh.org">SnapFresh</a> - service which finds the closest places that accepts EBT cards</li>
+<li><a href="https://www.mrelief.com/#?category=All">mRelief</a> - a non-profit organization that provides an easy to use online and text messaging tool for low-income Americans to find out if they qualify for social services</li>
 <br>
 </ul>
 # GOVERNMENT (EDITS NEEDED)
@@ -105,6 +104,7 @@ Choose an area:
 <li><a href="https://play.google.com/store/apps/details?id=com.w2cyk.android.balance4ebtfree&hl=en">Balance 4 SNAP and EBT</a> - an app that lets users register on their system to check their SNAP and EBT card balance</li>
 <li><a href="https://play.google.com/store/apps/details?id=com.propel.ebenefits&hl=en">Fresh EBT</a> - app that lets users check their EBT card balance through entering their EBT/food stamp information on their smartphones</li>
 <li><a href="https://devpost.com/software/disastr">Disastr</a> - it offers access to disaster relief, breaking news and links to legal professionals who can help in the aftermath of a catastrophe. Included is advice on getting food stamps and health care, and navigating insurance after a natural disaster.</li>
+<li><a href="https://www.mrelief.com/#?category=All">mRelief</a> - a non-profit organization that provides an easy to use online and text messaging tool for low-income Americans to find out if they qualify for social services</li>
 </ul>
 # DISABILITY
 <ul style="list-style-type:circle">
