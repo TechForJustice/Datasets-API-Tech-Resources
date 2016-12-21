@@ -95,16 +95,15 @@ Choose an area:
 <li><a href="https://www.healthlawyers.org/hlresources/PI/Pages/ProBonoToolkit.aspx">American Health Lawyers Association Pro-Bono Kit</a> (for health lawyers)</li>
 <li><a href="http://cambridgelaw.org/paperhealth/">PaperHealth</a> - an app specifically created for residents of Massachusetts. It enables the user to create a "living will" and lets them assign theiw own HealthCare Proxy</li>
 <li><a href="http://www.augmedix.com/">Augmedix</a> - give health care providers a team of real-time, quality-controlled, and customized remote scribes, accessed through Google Glass</li>
-<li><a href="http://www.snapfresh.org">SnapFresh</a> - service which finds the closest places that accepts EBT cards</li>
-<li><a href="https://www.mrelief.com/#?category=All">mRelief</a> - a non-profit organization that provides an easy to use online and text messaging tool for low-income Americans to find out if they qualify for social services</li>
 <br>
 </ul>
-# GOVERNMENT (EDITS NEEDED)
+# GOVERNMENT BENEFITS
 <ul style="list-style-type:circle">
 <li><a href="https://play.google.com/store/apps/details?id=com.w2cyk.android.balance4ebtfree&hl=en">Balance 4 SNAP and EBT</a> - an app that lets users register on their system to check their SNAP and EBT card balance</li>
 <li><a href="https://play.google.com/store/apps/details?id=com.propel.ebenefits&hl=en">Fresh EBT</a> - app that lets users check their EBT card balance through entering their EBT/food stamp information on their smartphones</li>
 <li><a href="https://devpost.com/software/disastr">Disastr</a> - it offers access to disaster relief, breaking news and links to legal professionals who can help in the aftermath of a catastrophe. Included is advice on getting food stamps and health care, and navigating insurance after a natural disaster.</li>
 <li><a href="https://www.mrelief.com/#?category=All">mRelief</a> - a non-profit organization that provides an easy to use online and text messaging tool for low-income Americans to find out if they qualify for social services</li>
+<li><a href="http://www.snapfresh.org">SnapFresh</a> - service which finds the closest places that accepts EBT cards</li>
 </ul>
 # DISABILITY
 <ul style="list-style-type:circle">
