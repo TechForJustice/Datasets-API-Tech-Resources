@@ -134,18 +134,28 @@ Choose an area:
 <li><a href="http://lawbot.info">LawBot</a> is a chatbot lawyer that helps you understand the laws surrounding major criminal offences in England & Wales. </li>
 </ul>
 <br>
-# GENERAL LAW
+# LEGAL AID
+<ul style="list-style-type:circle">
+<li><a href="http://ptla.org/pine-trees-legal-aid-apps">Legal Aid News</a> - Users can employ the app to search for general legal aid news or new developments in legal aid on a state-by-state basis, as well as updated info on national legal centers for low-income people and news on the Legal Services Corp</li>
+<li><a href="http://www.legal-aid.org/en/civil/civilpractice.aspx">The Legal Aid Society</a> - a non-profit organization that provides free legal services for people who cannot afford to pay for counsel</li>
+<li><a href="https://itunes.apple.com/us/app/legal-aid-news/id482957565?mt=8">Legal Aid News</a> - app which provides legal aid news nationally or by state.</li>
+<li><a href="https://ptla.org/finder/">Legal Aid Finder by state</a> - service which enables the user to find legal aid programs around the country</li>
+<li><a href="http://helpmelaw.org/webapp/">HelpMeLaw Legal Aid</a> - service that offers Maine residents free help in finding legal aid</li>
+</ul>
+<br>
+# PRO BONO
+<li><a href="https://www.probono.net">Pro Bono Net</a> - a non-profit organization dedicated to increasing access to justice for the disadvantaged</li>
+</ul>
+<br>
+# LAWYER
 <ul style="list-style-type:circle">
 <li><a href="https://play.google.com/store/apps/details?id=com.absmallbusinessmarketing.askalawyer&hl=en">Ask a Lawyer</a> - allows user to get legal help, ask any legal questions, and find possible representation</li>
 <li><a href="https://www.berniesez.com">Bernie Sez</a> - allows users to take a picture of a ticket or other paperwork having to do with the charge filed, and upload it to the cloud, where scores of competing lawyers look over the case and compete to represent the user</li>
 <li><a href="https://www.lawzam.com">LawZam</a> - invites people with legal problems to visit its site and post legal questions that its lawyers answer with an initial free consultation. The app includes videoconferencing, so both parties can get a good look at one another before they agree to do business.</li>
-<li><a href="http://ptla.org/pine-trees-legal-aid-apps">Legal Aid News</a> - Users can employ the app to search for general legal aid news or new developments in legal aid on a state-by-state basis, as well as updated info on national legal centers for low-income people and news on the Legal Services Corp</li>
 <li><a href="http://myattorneyapp.com">My Attorney App</a> - clients can store background information, witness information and photographs associated with cases, in addition to dialing or texting their attorneys.</li>
 <li><a href="http://www.stellutelaw.com/stelluteapp/app/index.html">The Stellute Law App</a> - designed for Virginia drivers who need guidance at an accident scene.</li>
 <li><a href="https://free.law/recap/">RECAP Project</a> - a free extension for Firefox and Chrome that improves the experience of using PACER, the electronic public access system for the U.S. Federal District and Bankruptcy Courts.</li>
 <li><a href="https://openadvocate.org/dlaw/">DLAW</a> -  a Drupal distribution for building public information websites. </li>
-<li><a href="https://www.probono.net">Pro Bono Net</a> - a non-profit organization dedicated to increasing access to justice for the disadvantaged</li>
-<li><a href="http://www.legal-aid.org/en/civil/civilpractice.aspx">The Legal Aid Society</a> - a non-profit organization that provides free legal services for people who cannot afford to pay for counsel</li>
 <li><a href="http://www.abajournal.com/magazine/article/20_apps_providing_easier_access_to_legal_help">List of apps for easier access to legal help</a> by American Bar Associaton</li>
 <li><a href="http://heavy.com/tech/2015/08/top-5-best-free-legal-law-laywer-for-iphone-android/">List of free legal apps for smartphones</a></li>
 <li><a href="https://itunes.apple.com/us/app/signeasy-fill-sign-documents/id381786507?mt=8">SignEasy</a> - app which enables the user to sign documents on therir smartphones</li>
@@ -163,17 +173,12 @@ Choose an area:
 <li><a href="https://itunes.apple.com/ca/app/standin/id972138344?mt=8">StandIn</a> -  location-based app that matches lawyers with other lawyers, agents and legal professionals for court appearances.</li>
 <li><a href="https://itunes.apple.com/us/app/law-dictionary-guide/id382017848?mt=8">Law Dictionary & Guide</a> - dictionary app about legal jargon</li>
 <li><a href="https://itunes.apple.com/us/app/scotusblog/id723205705?mt=8">SCOTUSblog</a> - app which keeps the user up-to-date with the latest Supreme Court news</li>
-<li><a href="https://itunes.apple.com/us/app/legal-aid-news/id482957565?mt=8">Legal Aid News</a> - app which provides legal aid news nationally or by state.</li>
-<li><a href="https://ptla.org/finder/">Legal Aid Finder by state</a> - service which enables the user to find legal aid programs around the country</li>
 <li><a href="http://www.legalzoom.com">LegalZoom</a> - provides accessible legal help to average Americans</li>
 <li><a href="http://www.legalswipe.com">Legalswipe</a> - an app that informs people of their rights during interactions with police</li>
 <li><a href="https://www.civilresolutionbc.ca">Civil Resolution Tribunal</a> - Canada’s first online tribunal for resolving strata and small claims disputes</li>
 <li><a href="https://play.google.com/store/apps/details?id=com.absmallbusinessmarketing.askalawyer&hl=en">Ask a Lawyer: Legal Help</a> - allows user to get legal help, ask any legal questions, and find possible representation</li>
 <li><a href="https://www.lawzam.com/">LawZam</a> - a service which connects clients to lawyers for free legal advice</li>
 <li><a href="https://itunes.apple.com/us/app/my-attorney-app/id343058489?mt=8">My Attorney App</a> - app which lets users contact their attorney and keep data for their case or trial</li>
-<li><a href="http://www.ecamm.com/mac/phoneview/">PhoneView</a> - allows user to print text messages from their smartphones or tablets</li>
-<li><a href="http://helpmelaw.org/webapp/">HelpMeLaw Legal Aid</a> - service that offers Maine residents free help in finding legal aid</li>
-<li><a href="http://www.donotpay.co.uk/signup.php">DoNotPay</a> - offers free legal help to the homeless and refugees</li>
 <li><a href="https://play.google.com/store/apps/details?id=com.agilelaw.deposition&hl=en">AgileLaw</a>- app that lets lawyers work paper free by uploading documents and PDFs needed for deposition</li>
 <li><a href="https://play.google.com/store/apps/details?id=com.rosway.genesis&hl=en">CaseSync</a> - cloud-based legal management that allows law firms to save and access their data in the cloud</li>
 <li><a href="https://play.google.com/store/apps/details?id=com.fiftysteps.droid.trial.dike&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS5maWZ0eXN0ZXBzLmRyb2lkLnRyaWFsLmRpa2UiXQ..">Dike trial: Calendar 4 Lawyers</a> - calendar app specifically made for lawyers to organize and track their case hearings</li>
