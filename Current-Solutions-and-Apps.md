@@ -123,7 +123,6 @@ Choose an area:
 <li><a href="http://www.virtualcourthouse.com/">Virtual Courthouse</a> - onlinde dispute resolution service that provides users with experienced arbitrators and mediators</li>
 <li><a href="http://www.peopleclaim.com/">PeopleClaim</a> - online dispute resolution service</li>
 <li><a href="https://www.usaid.gov/results-data/success-stories/virtual-court-rooms-help-colombian-judicial-system">USAID Virtual Courtrooms</a> - virtual courtrooms designed by the USAID</li>
-<li><a href="http://www.ecamm.com/mac/phoneview/">PhoneView</a> - allows a user to view, save and print all iPhone, iPad and WhatsApp messages onto a Mac computer.</li>
 </ul>
 </ul>
 <br>
