@@ -179,7 +179,8 @@ Choose an area:
 <br>
 # VETERANS
 <ul style="list-style-type:circle">
-<li><a href="https://www.whitehouse.gov/blog/2012/01/23/celebrating-our-veterans-apps-heroes">Apps for Heroes</a></li>
+<li><a href="https://www.healthit.gov/patients-families/join-blue-button-movement">Blue Button</a> originated at the Veteran’s Administration as a symbol on its patient portal that beneficiaries could click to securely download their own health record electronically. Since then the Blue Button has spread beyond VA to other government agencies and the private sector.</li>
+<li><a href="http://www.mynextmove.org/vets/">My Next Move For Veterans</a> is designed for U.S. veterans who are current job seekers. The interactive tool helps vets learn about their career options.</li>
 </ul>
 <br>
 # OTHER JUSTICE APPS
