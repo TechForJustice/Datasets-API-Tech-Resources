@@ -49,7 +49,15 @@ Choose an area:
 <li><a href="https://www.getdismissed.com/">GetDismissed</a> fights traffic tickets for free.</li>
 </ul>
 <br>
-# HOUSING
+# WOMEN
+<br>
+# RACIAL JUSTICE
+<br>
+# ENVIRONMENT 
+<br>
+# PRIVACY
+<br>
+# HOUSING/HOMELESSNESS
 <ul style="list-style-type:circle">
 <li><a href="https://play.google.com/store/apps/details?id=resources.hud.gov.resourcelocator_android">HUD Resource Locator</a> by US Department of Housing and Urban Development - app that helps users discover commonly requested federal housing resources within their community</li>
 <li><a href="https://play.google.com/store/apps/details?id=com.grants.hud.app">HUD Grants</a> by US Department of Housing and Urban Development - app that allows users to find all grants which are listed on Grants.gov for Housing Urban Development</li>
@@ -97,6 +105,8 @@ Choose an area:
 <li><a href="http://nnedv.org/resources/transitional-housing.html">Domestic Violence Toolkit</a> by National Network to End Domestic Violence - provides transitional housing providers with easy access to information and resources to enhance services to domestic violence survivors.</li>
 <li><a href="https://www.whengeorgiasmiled.org/the-aspire-news-app/">Aspire News App</a> - app that contains resources for victims of domestic violence</li>
 </ul>
+<br>
+# SEXUAL ASSAULT
 <br>
 # HEALTH CARE
 <ul style="list-style-type:circle">
@@ -155,7 +165,7 @@ Choose an area:
 <li><a href="https://www.probono.net">Pro Bono Net</a> - a non-profit organization dedicated to increasing access to justice for the disadvantaged</li>
 </ul>
 <br>
-# LAWYER
+# LEGAL SERVICES
 <ul style="list-style-type:circle">
 <li><a href="https://play.google.com/store/apps/details?id=com.absmallbusinessmarketing.askalawyer&hl=en">Ask a Lawyer</a> - allows user to get legal help, ask any legal questions, and find possible representation</li>
 <li><a href="https://www.berniesez.com">Bernie Sez</a> - allows users to take a picture of a ticket or other paperwork having to do with the charge filed, and upload it to the cloud, where scores of competing lawyers look over the case and compete to represent the user</li>
@@ -200,6 +210,8 @@ Choose an area:
 <ul style="list-style-type:circle">
 <li><a href="https://www.fbi.gov/news/stories/fbi-releases-new-version-of-child-id-app">FBI Child ID</a> - provides a convenient place to electronically store photos and vital information about your children so that it’s literally right at hand if you need it.</li>
 </ul>
+<br>
+# FAMILY LAW
 <br>
 # CYBERBULLYING 
 <br>
