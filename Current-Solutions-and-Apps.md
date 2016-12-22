@@ -51,6 +51,11 @@ Choose an area:
 <br>
 # WOMEN
 <br>
+# SENIORS
+<ul style="list-style-type:circle">
+<li><a href="https://guidechange.com/">Guide Change</a> helps you safely manage your finances while avoiding financial exploitation.</li>
+</ul>
+<br>
 # LGBTQA
 <br>
 # RACIAL JUSTICE
@@ -83,6 +88,9 @@ Choose an area:
 <br>
 # DOMESTIC VIOLENCE
 <ul style="list-style-type:circle">
+<li><a href="https://github.com/TechForJustice/protechme">ProTechMe</a> is a chat bot that collects protective order info quickly and efficiently</li>
+<li><a href="https://inmylanguage.us/">InMyLanguage</a> is a tool for limited English survivors as well as their advocates to access resources.</li>
+<li><a href="https://github.com/lorenanicole/dvprocessing">dvServe</a> crowdsources the process of serving of orders of protection.</li>
 <li><a href="https://play.google.com/store/apps/details?id=com.tracen.domviol">Domestic Violence Prevention</a> by Department of Navy's Sea Warrior Program Office - a mobile training and resource tool that provides easy access to information that satisfies the Navy's General Military Training (GMT) requirements for Domestic Violence Prevention</li>
 <li><a href="https://play.google.com/store/apps/details?id=com.lifeislife.whiz2083.pocketbook">Purple PocketBook</a> - an app for helping women get information on local shelters, legal information as well as a questionnaire to know if you are in a potential domestic violence situation</li>
 <li><a href="https://play.google.com/store/apps/details?id=com.conduit.app_c81e1a56b4524889ac6cffc78d75c979.app">Trusted Helplines</a> - app which allows the user to connect with non-profit organizations and government agencies for free advice and financial assistance</li>
@@ -215,6 +223,7 @@ Choose an area:
 # CHILDREN
 <ul style="list-style-type:circle">
 <li><a href="https://www.fbi.gov/news/stories/fbi-releases-new-version-of-child-id-app">FBI Child ID</a> - provides a convenient place to electronically store photos and vital information about your children so that it’s literally right at hand if you need it.</li>
+<li><a href="https://devpost.com/software/navigating-dcfs">Navigating DCFS</a> empowers clients as they navigate DCFS Investigations.</li>
 </ul>
 <br>
 # FAMILY LAW
@@ -228,6 +237,9 @@ Choose an area:
 </ul>
 <br>
 # EMERGENCY SUPPORT
+<ul style="list-style-type:circle">
+<li><a href="https://github.com/betterangels/buoy/wiki">Buoy</a> is a free and open source technology for connecting users with friends and allies in times of need. It exists to empower you and your communities with a decentralized, customized, alternative crisis response system that does not rely on intervention by the police, other government services, or corporations.</li>
+</ul>
 <br>
 # POLICE CONDUCT
 <ul style="list-style-type:circle">
@@ -242,6 +254,8 @@ Choose an area:
 # CRIMINAL RECORD 
 <ul style="list-style-type:circle">
 <li><a href="http://www.expunge.io/">Expunge.io</a> is a resource for people with juvenile records in Illinois. Expunge.io seeks to clarify juvenile expungement, with the hope of more people getting their records erased.</li>
+<li><a href="https://github.com/recordbleach/tx-recordbleach-api">RecordBleach</a> is a tool that enables Texans to prepare necessary court documents for expunction of certain arrests, charge, and convictions.</li>
+<li><a href="https://github.com/ReEntry-me">ReEntry.Me</a> helps parolees find resources with less friction. 
 </ul>
 <br>
 # CRIME 
