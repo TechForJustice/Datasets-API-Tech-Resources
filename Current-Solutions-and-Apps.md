@@ -68,9 +68,17 @@ Choose an area:
 <br>
 # SEXUAL HARASSMENT 
 <br>
+# POVERTY
+<ul style="list-style-type:circle">
+<li><a href="https://handup.org">HandUp</a> provides nonprofits and donors in the community with a new, simple, and direct way to make an impact on poverty.</li>
+</ul>
+<br>
 # HOUSING/HOMELESSNESS
 <ul style="list-style-type:circle">
+<li><a href="http://haystack-hack2end.herokuapp.com/">HayStack</a> is a tool to explore Point in Time data provided by the U.S. Department of Housing and Urban Development across the 25 metro areas involved in the 25 Cities Initiative (Continuums of Care).</li>
 <li><a href="https://play.google.com/store/apps/details?id=resources.hud.gov.resourcelocator_android">HUD Resource Locator</a> by US Department of Housing and Urban Development - app that helps users discover commonly requested federal housing resources within their community</li>
+<li><a href="https://gocopia.com/#/">Copia</a> uses technology to streamline the process of surplus food and distribution.</li>
+<li><a href="http://www.antievictionmap.com/">Anti-eviction Map</a> - Radical data visualization and digital storytelling collective documenting the dispossession of SF Bay Area residents.</li>
 <li><a href="https://play.google.com/store/apps/details?id=com.grants.hud.app">HUD Grants</a> by US Department of Housing and Urban Development - app that allows users to find all grants which are listed on Grants.gov for Housing Urban Development</li>
 <li><a href="https://play.google.com/store/apps/details?id=info.NYCHA.Mobile.MyNYCHA&hl=en">My NYCHA</a> by the New York City Housing Authority - app that allows public housing residents to create, submit, schedule, view and update maintenance service requests, view alerts and outages related to their developments, view their scheduled inspections and maintain their contact information via their smartphones and tablets</li>
 <li><a href="https://play.google.com/store/apps/details?id=com.nationwide.evictionApp">Eviction App</a> - app which allows the user to  manage their eviction needs electronically</li>
