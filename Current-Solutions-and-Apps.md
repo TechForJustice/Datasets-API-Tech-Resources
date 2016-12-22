@@ -1,7 +1,7 @@
 Choose an area: 
 <br>
 # GRANT REPORTING
-<ul style:"list-style-type-circle">
+<ul style="list-style-type:circle">
 <li><a href="https://www.grantvantage.com/">Grantvantage</a> - software that gives project managers a complete, top-down view of all grants, contracts, sub-awards, objectives, performance measures, activities, and staff assignments</li>
 <li><a href="http://crcamerica.org/resources/common-grant-forms/">Common grant forms</a> by Community Resource Center America - these common grant forms by CRC allows Colorado grantseekers to use a single form for many different applications and reports</li>
 <li><a href="https://docs.google.com/presentation/d/1BmcXKBkmJVL-Ia7dKHwKD1jGITnWtyVtfM-nkW2xH9I/pub?start=true&loop=true&delayms=10000&slide=id.p">Legal Aid Grants: Open Data Standard</a> - Proposed at the Legal Justice Hackathon</li> 
@@ -38,6 +38,15 @@ Choose an area:
 <li><a href="https://www.learnvest.com/personal-financial-planning-program/">LearnVest</a> - service that provides consumers with a personal financial planner, fully-customized financial plan, and online tools and classes about financial management</li>
 <li><a href="https://itunes.apple.com/us/app/debttracker-pro/id303497125?mt=8">DebtTracker Pro</a> - app which lets user track their finances and debt</li>
 <li><a href="https://itunes.apple.com/us/app/pay-off-debt/id308554006?mt=8">Pay Off Debt</a> - app which helps user plan how to pay off their debt</li>
+</ul>
+<br>
+# TRAFFIC
+<ul style="list-style-type:circle">
+<li><a href="http://www.donotpay.co.uk/signup.php">DoNotPay</a> is a chat bot designed to help people dispute parking violations.</li> 
+<li><a href="https://www.fixedlaw.com/">Fixed</a> is an app that helps you fight tickets.</li>
+<li><a href="https://offtherecord.com/">Off The Record</a> lets you contest your traffic ticket directly from your smart phone.</li>
+<li><a href="http://appwinit.com/">WinIt</a> helps you manage and dispute your NYC parking tickets.</li>
+<li><a href="https://www.getdismissed.com/">GetDismissed</a> fights traffic tickets for free.</li>
 </ul>
 <br>
 # HOUSING
@@ -193,6 +202,10 @@ Choose an area:
 <ul style="list-style-type:circle">
 <li><a href="https://www.fbi.gov/news/stories/fbi-releases-new-version-of-child-id-app">FBI Child ID</a> - provides a convenient place to electronically store photos and vital information about your children so that it’s literally right at hand if you need it.</li>
 </ul>
+<br>
+# CYBERBULLYING 
+<br>
+# DISASTER RELIEF 
 <br>
 # POLICE CONDUCT
 <ul style="list-style-type:circle">
