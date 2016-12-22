@@ -95,6 +95,7 @@ Choose an area:
 <li><a href="https://www.healthlawyers.org/hlresources/PI/Pages/ProBonoToolkit.aspx">American Health Lawyers Association Pro-Bono Kit</a> (for health lawyers)</li>
 <li><a href="http://cambridgelaw.org/paperhealth/">PaperHealth</a> - an app specifically created for residents of Massachusetts. It enables the user to create a "living will" and lets them assign theiw own HealthCare Proxy</li>
 <li><a href="http://www.augmedix.com/">Augmedix</a> - give health care providers a team of real-time, quality-controlled, and customized remote scribes, accessed through Google Glass</li>
+<li><a href="http://www.chicagohealthatlas.org/">Chicago Health Atlas</a> is a place where you can view citywide information about health trends and take action near you to improve your own health.</li>
 <br>
 </ul>
 # GOVERNMENT BENEFITS
@@ -183,17 +184,32 @@ Choose an area:
 <li><a href="http://www.mynextmove.org/vets/">My Next Move For Veterans</a> is designed for U.S. veterans who are current job seekers. The interactive tool helps vets learn about their career options.</li>
 </ul>
 <br>
-# OTHER JUSTICE APPS
+# EMPLOYMENT
 <ul style="list-style-type:circle">
 <li><a href="https://www.dol.gov/general/apps/timesheet">DOL - Timesheet</a> - used to record the hours an employee works, and it automatically calculates overtime at time-and-a-half the regular rate of pay.</li>
-<li><a href="https://www.fbi.gov/news/stories/child_080511">FBI Child ID</a> - provides a convenient place to electronically store photos and vital information about your children so that it’s literally right at hand if you need it.</li>
+</ul>
+<br>
+# CHILDREN
+<ul style="list-style-type:circle">
+<li><a href="https://www.fbi.gov/news/stories/fbi-releases-new-version-of-child-id-app">FBI Child ID</a> - provides a convenient place to electronically store photos and vital information about your children so that it’s literally right at hand if you need it.</li>
+</ul>
+<br>
+# POLICE CONDUCT
+<ul style="list-style-type:circle">
 <li><a href="http://oh-crap-app.com">"Oh Crap!" App</a> - protects drivers from an overly aggressive driving-while-intoxicated stop</li>
 <li><a href="http://www.nyclu.org/app">Stop and Frisk Watch App</a> - allows a neighborhood bystander to record a questionable stop-and-frisk with just a flick of the finger.</li>
-<li><a href="https://www.aclu.org/feature/aclu-apps-record-police-conduct">Mobile Justice</a></li>
-<li><a href="http://www.abajournal.com/news/article/largest_public_database_of_chicago_police_misconduct_debuts">Citizens Police Data Project</a> - largest public database of police misconduct allegations in the country</li>
-<li><a href="http://www.prisonpolicy.org">Prison Policy Initiative</a> - produces cutting edge research to expose the broader harm of mass criminalization, and then sparks advocacy campaigns to create a more just society.</li>
-<li><a href="http://www.smartchicagocollaborative.org/contact-us/">Smart Chicago</a> - tracks information from Chicago law enforcement</li>
-<li><a href="http://www.swiftreach.com/Solutions/Swift911™.aspx">Swift 911</a> - an app that allows local law enforcement officials to send crime alerts and emergency notifications via text messages or posts on social media</li>
+<li><a href="https://www.aclu.org/feature/aclu-apps-record-police-conduct">Mobile Justice</a> is a collection of ACLU apps to record police conduct, with apps for 18 states.</li>
+<li><a href="https://cpdb.co/data/b411jW/citizens-police-data-project">Citizens Police Data Project</a> is a database of 56,000 misconduct complaint records for more than 8,500 Chicago police officers.</li>
+<li><a href="http://crime-punishment.smartchicagoapps.org/">Crime and Punishment in Chicago</a> is an index of data sources surrounding this criminal justice system as it is in Chicago.</li>
+<li><a href="http://convictions.smartchicagoapps.org/">Convicted in Cook</a> is an analysis of five years of Cook County conviction data.</li>
+</ul>
+<br>
+# CRIMINAL RECORD 
+<ul style="list-style-type:circle">
+<li><a href="http://www.expunge.io/">Expunge.io</a> is a resource for people with juvenile records in Illinois. Expunge.io seeks to clarify juvenile expungement, with the hope of more people getting their records erased.</li>
+</ul>
+<br>
+# CRIME 
 <li><a href="http://www.washingtonpost.com/wp-srv/special/local/dc-shot-spotter/">DC ShotSpotter</a> - uses a microphone network to identify the audio signature of a gunshot, triangulates its location and notifies police</li>
 </ul>
 <br>
