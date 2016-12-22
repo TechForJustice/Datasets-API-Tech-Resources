@@ -226,6 +226,7 @@ Choose an area:
 <ul style="list-style-type:circle">
 <li><a href="https://www.fbi.gov/news/stories/fbi-releases-new-version-of-child-id-app">FBI Child ID</a> - provides a convenient place to electronically store photos and vital information about your children so that it’s literally right at hand if you need it.</li>
 <li><a href="https://devpost.com/software/navigating-dcfs">Navigating DCFS</a> empowers clients as they navigate DCFS Investigations.</li>
+<li><a href="http://sitwithus.io/#!/Home">Sit With Us</a> is designed to promote a kinder and more inclusive school community.</li>
 </ul>
 <br>
 # FAMILY LAW
