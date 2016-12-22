@@ -51,11 +51,17 @@ Choose an area:
 <br>
 # WOMEN
 <br>
+# LGBTQA
+<br>
 # RACIAL JUSTICE
 <br>
 # ENVIRONMENT 
 <br>
 # PRIVACY
+<br>
+# COURT
+<br>
+# SEXUAL HARASSMENT 
 <br>
 # HOUSING/HOMELESSNESS
 <ul style="list-style-type:circle">
@@ -220,6 +226,8 @@ Choose an area:
 <li><a href="https://www.mrelief.com/#?category=All">mRelief</a> - a non-profit organization that provides an easy to use online and text messaging tool for low-income Americans to find out if they qualify for social services</li>
 <li><a href="https://devpost.com/software/disastr">Disastr</a> - it offers access to disaster relief, breaking news and links to legal professionals who can help in the aftermath of a catastrophe. Included is advice on getting food stamps and health care, and navigating insurance after a natural disaster.</li>
 </ul>
+<br>
+# EMERGENCY SUPPORT
 <br>
 # POLICE CONDUCT
 <ul style="list-style-type:circle">
