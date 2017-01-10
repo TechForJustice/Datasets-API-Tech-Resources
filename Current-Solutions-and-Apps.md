@@ -223,6 +223,7 @@ Choose an area:
 <ul style="list-style-type:circle">
 <li><a href="https://www.healthit.gov/patients-families/join-blue-button-movement">Blue Button</a> originated at the Veteran’s Administration as a symbol on its patient portal that beneficiaries could click to securely download their own health record electronically. Since then the Blue Button has spread beyond VA to other government agencies and the private sector.</li>
 <li><a href="http://www.mynextmove.org/vets/">My Next Move For Veterans</a> is designed for U.S. veterans who are current job seekers. The interactive tool helps vets learn about their career options.</li>
+<li><a href="http://www.benefits.va.gov/insurance/bfcs.asp">VA Online Will Preparation Service</a> is a no-cost service for beneficiaries of certain servicemember and veterans group life insurance plans. The service is handled by FinancialPointPlus.com, and requires an 8-digit insurance claim number to access the service. However, claim numbers are not issued until the servicemember or veteran dies.</li>
 </ul>
 <br>
 # EMPLOYMENT
