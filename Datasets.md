@@ -96,5 +96,5 @@
 <li><a href="http://www.umass.edu/eei/EEI%20Website%20Articles/Dispute%20Prevention%20and%20Dispute%20Resolution%20in%20Networked%20Health%20Information%20Technology%20Policy%20Paper%20Final%20031609.pdf">Dispute Prevention and Dispute Resolution in Networked Health Information Technology (2009)</a> by University of Massachusetts Amherst and National Mediation Board  </li>
 <li><a href="https://www.va.gov/myva/">#1 MyVA intiative strategy: Rebuilding trust with Veterans (2016)</a> by the Department of Veterans Affairs </li>
 <li><a href="http://www.diversity.va.gov/policy/files/Directive_5978.pdf">VA Directive 5978, Alternative Dispute Resolution (Feb 2013)</a> by the Department of Veterans Affairs </li>
-<li><a href="https://www.va.gov/adr/docs/VHAHndbk.pdf">VA Directive 5978, VHA ADR/Mediation Handbook</a> by the Department of Veterans Affairs </li>
+<li><a href="https://www.va.gov/adr/docs/VHAHndbk.pdf">VA Directive 5978, VHA ADR/Mediation Handbook (2000)</a> by the Department of Veterans Affairs </li>
 <li><a href="https://www.va.gov/ORM/FAQ/mediation.asp">VA Office of Resolution Management (ORM): Mediation Facts (Feb 2013)</a> by the Department of Veterans Affairs </li>
