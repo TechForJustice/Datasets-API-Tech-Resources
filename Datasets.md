@@ -89,3 +89,6 @@
 <ul style="list-style-type:circle">
 <li><a href="http://i2.cdn.turner.com/cnn/2016/images/07/05/commission-on-care_final-report_063016_1815-3-1.pdf">Final Report of the Commission on Care (Jun 2016)</a> by the Commission on Care </li>
 <li><a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwjzk4z7jpvRAhUU7WMKHf9JBqoQFggcMAA&url=https%3A%2F%2Fwww.va.gov%2Fvhapublications%2FViewPublication.asp%3Fpub_ID%3D3285&usg=AFQjCNFZ6kjP3T9FltexwKgivx4b02WXmg&sig2=J3Yl4MavA3ER-BbbxVvoiw">VHA Directive 1041, Appeal of VHA Clinical Decisions (24 Oct 2016)</a> by the Veterans Health Administration</li>
+<li><a href="https://catalog.data.gov/dataset/patient-advocate-tracking-system-pats">Patient Advocate Tracking System (PATS)</a> by DATA.GOV </li>
+<li><a href="http://www.hkmj.org/abstracts/v21n6/560.htm">The practice of mediation to resolve clinical, bioethical, and medical malpractice disputes (2015)</a> in the Hong Kong Mecical Journal </li>
+<li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3314770/">Medical Malpractice Reform: The Role of Alternative Dispute Resolution (2012)</a> in Clinical Orthopaedics and Related Research </li>
