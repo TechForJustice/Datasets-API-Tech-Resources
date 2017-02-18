@@ -85,7 +85,7 @@
 <li><a href="https://www.ftc.gov/tips-advice/business-center/guidance/mobile-health-apps-interactive-tool">Guidelines for building a mobile health app</a> by the Federal Trade Commission</li>
 <li><a href="http://legalaid.uslegal.com">List of legal aid assistance by state</a> collected by uslegal.com</li>
 </ul>
-<b>UNDESRIABLE DISCHARGES:</b>
+<b>Appealing VHA Clinical Decisions:</b>
 <ul style="list-style-type:circle">
 <li><a href="http://i2.cdn.turner.com/cnn/2016/images/07/05/commission-on-care_final-report_063016_1815-3-1.pdf">Final Report of the Commission on Care (Jun 2016)</a> by the Commission on Care </li>
 <li><a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwjzk4z7jpvRAhUU7WMKHf9JBqoQFggcMAA&url=https%3A%2F%2Fwww.va.gov%2Fvhapublications%2FViewPublication.asp%3Fpub_ID%3D3285&usg=AFQjCNFZ6kjP3T9FltexwKgivx4b02WXmg&sig2=J3Yl4MavA3ER-BbbxVvoiw">VHA Directive 1041, Appeal of VHA Clinical Decisions (24 Oct 2016)</a> by the Veterans Health Administration</li>
