@@ -98,3 +98,7 @@
 <li><a href="http://www.diversity.va.gov/policy/files/Directive_5978.pdf">VA Directive 5978, Alternative Dispute Resolution (Feb 2013)</a> by the Department of Veterans Affairs </li>
 <li><a href="https://www.va.gov/adr/docs/VHAHndbk.pdf">VA Directive 5978, VHA ADR/Mediation Handbook (2000)</a> by the Department of Veterans Affairs </li>
 <li><a href="https://www.va.gov/ORM/FAQ/mediation.asp">VA Office of Resolution Management (ORM): Mediation Facts (Feb 2013)</a> by the Department of Veterans Affairs </li>
+</ul>
+<b>UNDESIRABLE DISCHARGES:</b>
+<ul style="list-style-type:circle">
+<li><a href="http://military-law.lawyers.com/veterans-benefits/discharges-and-their-effect-on-veteran-benefits.html">Discharges and Their Effect on Veteran Benefits</a> by Lawyers.com </li>
