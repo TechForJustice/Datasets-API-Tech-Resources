@@ -102,3 +102,4 @@
 <b>UNDESIRABLE DISCHARGES:</b>
 <ul style="list-style-type:circle">
 <li><a href="http://military-law.lawyers.com/veterans-benefits/discharges-and-their-effect-on-veteran-benefits.html">Discharges and Their Effect on Veteran Benefits</a> by Lawyers.com </li>
+<li><a href="http://www.scpr.org/news/2015/09/29/54696/minor-infractions-in-uniform-keep-thousands-of-vet/">Minor infractions in uniform can keep vets on the street and away from VA (2015)</a> on Southern California Public Radio </li>
