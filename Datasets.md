@@ -104,3 +104,5 @@
 <li><a href="http://military-law.lawyers.com/veterans-benefits/discharges-and-their-effect-on-veteran-benefits.html">Discharges and Their Effect on Veteran Benefits</a> by Lawyers.com </li>
 <li><a href="http://www.scpr.org/news/2015/09/29/54696/minor-infractions-in-uniform-keep-thousands-of-vet/">Minor infractions in uniform can keep vets on the street and away from VA (2015)</a> on Southern California Public Radio </li>
 <li><a href="https://www.law.yale.edu/system/files/documents/pdf/unfinishedbusiness.pdf">Unfinished Business: correcting "Bad Paper" for veterans with ptsd (2015)</a> by Veterans Legal Service Clinic and Legal Services organization at Yale Law School </li>
+<li><a href="http://www.courant.com/news/connecticut/hc-vets-discharges-ptsd-20161116-story.html">Connecticut To Help PTSD Vets Upgrade 'Bad Paper' Discharges (2016) </a> in the Hartford Courant </li>
+<li><a href="https://fas.org/sgp/crs/misc/R43928.pdf">Veterans’ Benefits: The Impact of Military Discharges on Basic Eligibility (2015) </a> by the Congressional Research Service </li>
