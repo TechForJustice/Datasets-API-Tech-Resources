@@ -92,3 +92,5 @@
 <li><a href="https://catalog.data.gov/dataset/patient-advocate-tracking-system-pats">Patient Advocate Tracking System (PATS)</a> by DATA.GOV </li>
 <li><a href="http://www.hkmj.org/abstracts/v21n6/560.htm">The practice of mediation to resolve clinical, bioethical, and medical malpractice disputes (2015)</a> in the Hong Kong Mecical Journal </li>
 <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3314770/">Medical Malpractice Reform: The Role of Alternative Dispute Resolution (2012)</a> in Clinical Orthopaedics and Related Research </li>
+<li><a href="http://library.ahima.org/doc?oid=95151#.WKiI7hi-K8V">Dispute Resolution: Planning for Disputed Information in EHRS and PHRS (2009)</a> in AHIMA </li>
+<li><a href="http://www.umass.edu/eei/EEI%20Website%20Articles/Dispute%20Prevention%20and%20Dispute%20Resolution%20in%20Networked%20Health%20Information%20Technology%20Policy%20Paper%20Final%20031609.pdf">Dispute Prevention and Dispute Resolution in Networked Health Information Technology (2009)</a> by University of Massachusetts Amherst and National Mediation Board  </li>
