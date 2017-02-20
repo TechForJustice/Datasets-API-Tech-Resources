@@ -123,3 +123,9 @@
 <li><a href="http://www.benefits.va.gov/BENEFITS/factsheets/serviceconnected/MST.pdf">Disability compensation for conditions related to military sexual trauma (Mar 2016)</a> by Dept of Veterans Affairs </li>
 <li><a href="http://www.apa.org/news/press/releases/2015/11/military-sexual-trauma.aspx">Military Sexual Trauma: Prevalent and Under Treated (2015)</a> by American Psychological Association </li>
 <li><a href="https://www.swords-to-plowshares.org/sites/default/files/Military%20Sexual%20Trauma%20-%20Understanding%20(2015).pdf">MST: Understanding prevalence, resources and considerations to care (2015)</a> by Swords to Ploughshares </li>
+</ul>
+<br>
+<b>Veterans Treatment Courts:</b>
+<ul style="list-style-type:circle">
+<li><a href="https://s3.amazonaws.com/static.nicic.gov/Library/030018.pdf"> Veterans Treatment Courts - A SECOND CHANCE FOR VETS WHO HAVE LOST THEIR WAY</a> by National Institute of Corrections </li>
+<li><a href="http://www.american.edu/spa/jpo/initiatives/drug-court/upload/Fact-Sheet-on-Veterans-Treatment-Courts.pdf">Veterans Treatment Courts (Nov 2016)</a> by American University Justice Programs Office </li>
