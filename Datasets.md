@@ -85,6 +85,7 @@
 <li><a href="https://www.ftc.gov/tips-advice/business-center/guidance/mobile-health-apps-interactive-tool">Guidelines for building a mobile health app</a> by the Federal Trade Commission</li>
 <li><a href="http://legalaid.uslegal.com">List of legal aid assistance by state</a> collected by uslegal.com</li>
 </ul>
+<br>
 <b>Appealing VHA Clinical Decisions:</b>
 <ul style="list-style-type:circle">
 <li><a href="http://i2.cdn.turner.com/cnn/2016/images/07/05/commission-on-care_final-report_063016_1815-3-1.pdf">Final Report of the Commission on Care (Jun 2016)</a> by the Commission on Care </li>
@@ -99,6 +100,7 @@
 <li><a href="https://www.va.gov/adr/docs/VHAHndbk.pdf">VA Directive 5978, VHA ADR/Mediation Handbook (2000)</a> by the Department of Veterans Affairs </li>
 <li><a href="https://www.va.gov/ORM/FAQ/mediation.asp">VA Office of Resolution Management (ORM): Mediation Facts (Feb 2013)</a> by the Department of Veterans Affairs </li>
 </ul>
+<br>
 <b>UNDESIRABLE DISCHARGES:</b>
 <ul style="list-style-type:circle">
 <li><a href="http://military-law.lawyers.com/veterans-benefits/discharges-and-their-effect-on-veteran-benefits.html">Discharges and Their Effect on Veteran Benefits</a> by Lawyers.com </li>
@@ -106,3 +108,9 @@
 <li><a href="https://www.law.yale.edu/system/files/documents/pdf/unfinishedbusiness.pdf">Unfinished Business: correcting "Bad Paper" for veterans with ptsd (2015)</a> by Veterans Legal Service Clinic and Legal Services organization at Yale Law School </li>
 <li><a href="http://www.courant.com/news/connecticut/hc-vets-discharges-ptsd-20161116-story.html">Connecticut To Help PTSD Vets Upgrade 'Bad Paper' Discharges (2016) </a> in the Hartford Courant </li>
 <li><a href="https://fas.org/sgp/crs/misc/R43928.pdf">Veterans’ Benefits: The Impact of Military Discharges on Basic Eligibility (2015) </a> by the Congressional Research Service </li>
+</ul>
+<br>
+<b>MILITARY SEXUAL TRAUMA:</b>
+<ul style="list-style-type:circle">
+<li><a href="https://veterans.house.gov/witness-testimony/joy-j-ilem-14">House Committee on Veterans' Affairs</a> from Disabled American Veterans Deputy National Legislative Director </li>
+<li><a href="http://news.wabe.org/post/emory-uses-virtual-reality-treat-military-sexual-trauma-survivors">Emory Uses Virtual Reality To Treat Military Sexual Trauma Survivors (Dec 2015)</a> by WABE, Public Broadcasting Atlanta </li>
