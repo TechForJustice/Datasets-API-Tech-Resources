@@ -120,3 +120,5 @@
 <li><a href="http://www.ptsd.va.gov/public/types/violence/military-sexual-trauma-general.asp">PTSD - Military Sexual Trauma (2014)</a> by Department of Veterans Affairs </li>
 <li><a href="http://www.ajpmonline.org/article/S0749-3797(15)00703-5/abstract">Military Sexual Trauma and Suicide Mortality (2015)</a> by American Journal of Preventative Medicine </li>
 <li><a href="http://www.publichealth.va.gov/docs/vhi/military_sexual_trauma.pdf">Veterans Health Initiative Military Sexual Trauma (2004)</a> by Department of Veterans Affairs Employee Education System </li>
+<li><a href="http://www.benefits.va.gov/BENEFITS/factsheets/serviceconnected/MST.pdf">DISABILITY COMPENSATION FOR CONDITIONS RELATED TO MILITARY SEXUAL TRAUMA (Mar 2016))</a> by Department of Veterans Affairs </li>
+<li><a href="http://www.apa.org/news/press/releases/2015/11/military-sexual-trauma.aspx">Military Sexual Trauma: Prevalent and Under Treated (2015)</a> by American Psychological Association </li>
