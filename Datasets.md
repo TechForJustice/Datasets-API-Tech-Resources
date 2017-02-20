@@ -127,5 +127,7 @@
 <br>
 <b>Veterans Treatment Courts:</b>
 <ul style="list-style-type:circle">
-<li><a href="https://s3.amazonaws.com/static.nicic.gov/Library/030018.pdf"> Veterans Treatment Courts - A SECOND CHANCE FOR VETS WHO HAVE LOST THEIR WAY</a> by National Institute of Corrections </li>
+<li><a href="https://s3.amazonaws.com/static.nicic.gov/Library/030018.pdf"> Veterans Treatment Courts - A SECOND CHANCE FOR VETS WHO HAVE LOST THEIR WAY (May 2016)</a> by National Institute of Corrections </li>
 <li><a href="http://www.american.edu/spa/jpo/initiatives/drug-court/upload/Fact-Sheet-on-Veterans-Treatment-Courts.pdf">Veterans Treatment Courts (Nov 2016)</a> by American University Justice Programs Office </li>
+<li><a href="http://journals.sagepub.com/doi/full/10.1177/0887403413520002">Healing the Wounds
+An Examination of Veterans Treatment Courts in the Context of Restorative Justice (2014)</a> by Criminal Justice Policy Review </li>
