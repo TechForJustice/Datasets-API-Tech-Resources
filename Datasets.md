@@ -134,3 +134,5 @@
 <li><a href="http://jaapl.org/content/41/2/256.long">Critical Concerns in Iraq/Afghanistan War Veteran-Forensic Interface: Veterans Treatment Court as Diversion in Rural Communities (2013)</a> by The Journal of the American Academy of Psychiatry and the Law </li>
 <li><a href="http://law.stanford.edu/wp-content/uploads/sites/default/files/child-page/266901/doc/slspublic/Jacobs_McFarland_Ledeen.pdf">Serving Those Who Served: Veterans Treatment Courts in Theory and Practice (2012)</a> from law.stanford.edu </li>
 <li><a href="http://justiceforvets.org/what-is-a-veterans-treatment-court">What is a Veterans Treatment Court?</a> on Justice for Vets </li>
+<li><a href="https://www.texasbar.com/AM/Template.cfm?Section=Texas_Bar_Journal&Template=/CM/ContentDisplay.cfm&ContentID=19656">Veterans Courts in Texas (2012)</a> in Texas Bar Journal </li>
+<li><a href="http://www.dallascounty.org/department/courts/probate/veterans_court/veterans_court.php">Dallas County Veterans Court Program</a> by Dallas County </li>
