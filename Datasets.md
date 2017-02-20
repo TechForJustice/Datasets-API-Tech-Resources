@@ -122,4 +122,4 @@
 <li><a href="http://www.publichealth.va.gov/docs/vhi/military_sexual_trauma.pdf">Veterans Health Initiative Military Sexual Trauma (2004)</a> by Department of Veterans Affairs Employee Education System </li>
 <li><a href="http://www.benefits.va.gov/BENEFITS/factsheets/serviceconnected/MST.pdf">DISABILITY COMPENSATION FOR CONDITIONS RELATED TO MILITARY SEXUAL TRAUMA (Mar 2016))</a> by Dept of Veterans Affairs </li>
 <li><a href="http://www.apa.org/news/press/releases/2015/11/military-sexual-trauma.aspx">Military Sexual Trauma: Prevalent and Under Treated (2015)</a> by American Psychological Association </li>
-<li><a href="https://www.swords-to-plowshares.org/sites/default/files/Military%20Sexual%20Trauma%20-%20Understanding%20(2015).pdf">MILITARY SEXUAL TRAUMA: Understanding prevalence, resources and considerations to care (2015)</a> by SWORDS TO PLOWSHARES </li>
+<li><a href="https://www.swords-to-plowshares.org/sites/default/files/Military%20Sexual%20Trauma%20-%20Understanding%20(2015).pdf">MST: Understanding prevalence, resources and considerations to care (2015)</a> by Swords to Ploughshares </li>
