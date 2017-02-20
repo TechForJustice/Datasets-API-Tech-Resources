@@ -114,3 +114,5 @@
 <ul style="list-style-type:circle">
 <li><a href="https://veterans.house.gov/witness-testimony/joy-j-ilem-14">House Committee on Veterans' Affairs</a> from Disabled American Veterans Deputy National Legislative Director </li>
 <li><a href="http://news.wabe.org/post/emory-uses-virtual-reality-treat-military-sexual-trauma-survivors">Emory Uses Virtual Reality To Treat Military Sexual Trauma Survivors (Dec 2015)</a> by WABE, Public Broadcasting Atlanta </li>
+<li><a href="http://news.emory.edu/stories/2015/06/virtual_reality_therapy_military_sexual_trauma/">Researchers study virtual reality exposure therapy to treat military sexual trauma-related PTSD (2015)</a> by Woodruff Health Sciences Center </li>
+<li><a href="http://www.reuters.com/article/us-health-veterans-homeless-idUSKCN0XH2RD">ReMilitary sexual trauma tied to increased risk of homelessness (Apr 2016)</a> by Reuters </li>
