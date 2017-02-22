@@ -136,3 +136,9 @@
 <li><a href="http://justiceforvets.org/what-is-a-veterans-treatment-court">What is a Veterans Treatment Court?</a> on Justice for Vets </li>
 <li><a href="https://www.texasbar.com/AM/Template.cfm?Section=Texas_Bar_Journal&Template=/CM/ContentDisplay.cfm&ContentID=19656">Veterans Courts in Texas (2012)</a> in Texas Bar Journal </li>
 <li><a href="http://www.dallascounty.org/department/courts/probate/veterans_court/veterans_court.php">Dallas County Veterans Court Program</a> by Dallas County </li>
+</ul>
+<br>
+<b>Transition:</b>
+<ul style="list-style-type:circle">
+<li><a href="http://oaktrust.library.tamu.edu/handle/1969.1/152463"> A Phenomenological Exploration of Combat Veterans’ Experiences as They Transition to Civilian Employment Using Higher Education as Career Development (2014)</a> from Texas A&M </li>
+<li><a href="http://scholarworks.waldenu.edu/cgi/viewcontent.cgi?article=3216&context=dissertations">Transition and Transformation - From Military Combat to College Classroom: Strategies for Success (2016)</a> from Walden University </li>
