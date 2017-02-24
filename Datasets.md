@@ -151,5 +151,6 @@
 <ul style="list-style-type:circle">
 <li><a href="http://www.militarytimes.com/story/military/2016/08/11/malaria-drug-causes-permanent-brain-damage-case-study/88528568/">Malaria drug causes brain damage that mimics PTSD: case study (Aug 2016)</a> in Military Times </li>
 <li><a href="https://www.helpguide.org/articles/ptsd-trauma/ptsd-in-veterans.htm">PTSD in Military Veterans: Symptoms, Treatment, and Self-Help (Jan 2017)</a> from HelpGuide.org </li>
-<li><a href="http://www.ptsd.va.gov/professional/index.asp">PTSD: National Center for PTSD</a> by Dept of Veterans Affairs
-</li>
+<li><a href="http://www.ptsd.va.gov/professional/index.asp">PTSD: National Center for PTSD</a> by Dept of Veterans Affairs </li>
+<li><a href="http://www.ptsd.va.gov/professional/publications/ptsd-rq.asp">PTSD Research Quarterly</a> from National Center for PTSD (VA) </li>
+
