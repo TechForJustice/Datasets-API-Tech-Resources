@@ -145,3 +145,8 @@
 <li><a href="http://gradworks.umi.com/36/46/3646791.html">Veteran entrepreneurship: A phenomenological study of the lived experience of veterans' transition from military service to entrepreneurship (2014)</a> from Capella University </li>
 <li><a href="https://www.google.ca/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwj38u3Y5aLSAhUG1xoKHXd-DrAQFgghMAA&url=http%3A%2F%2Fwww.umdcipe.org%2Fconferences%2FMoscow%2Fpapers%2FLife_Transitions_from_Military_to_Civilians__Modeling_Public_Policy_Implications.doc&usg=AFQjCNFPcVcrbGyb6OBszB3LePx3PYzJng">Life Transitions from Military to Civilians: Modeling Public Policy Implications (2011)</a> from Georgetown University, MedStar Health Research Institute, George Washington University, DC VAMC, Washington, DC </li>
 <li><a href="http://pqdtopen.proquest.com/doc/1221247386.html?FMT=AI"> Combat to Corporate: A Qualitative Phenomenological Study on Injured Veterans Transitioning to the Civilian Workforce (2011)</a> from University of Phoenix </li>
+</ul>
+<br>
+<b>PTSD:</b>
+<ul style="list-style-type:circle">
+<li><a href="http://www.militarytimes.com/story/military/2016/08/11/malaria-drug-causes-permanent-brain-damage-case-study/88528568/">Malaria drug causes brain damage that mimics PTSD: case study (Aug 2016)</a> in Military Times </li>
