@@ -153,4 +153,4 @@
 <li><a href="https://www.helpguide.org/articles/ptsd-trauma/ptsd-in-veterans.htm">PTSD in Military Veterans: Symptoms, Treatment, and Self-Help (Jan 2017)</a> from HelpGuide.org </li>
 <li><a href="http://www.ptsd.va.gov/professional/index.asp">PTSD: National Center for PTSD</a> by Dept of Veterans Affairs </li>
 <li><a href="http://www.ptsd.va.gov/professional/publications/ptsd-rq.asp">PTSD Research Quarterly</a> from National Center for PTSD (VA) </li>
-
+<li><a href="http://www.ptsd.va.gov/professional/newsletters/research-quarterly/V26N2.pdf">PTechnology and PTSD Care: An Update (2015)</a> PTSD Research Quarterly </li>
