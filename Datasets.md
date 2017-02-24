@@ -123,6 +123,7 @@
 <li><a href="http://www.benefits.va.gov/BENEFITS/factsheets/serviceconnected/MST.pdf">Disability compensation for conditions related to military sexual trauma (Mar 2016)</a> by Dept of Veterans Affairs </li>
 <li><a href="http://www.apa.org/news/press/releases/2015/11/military-sexual-trauma.aspx">Military Sexual Trauma: Prevalent and Under Treated (2015)</a> by American Psychological Association </li>
 <li><a href="https://www.swords-to-plowshares.org/sites/default/files/Military%20Sexual%20Trauma%20-%20Understanding%20(2015).pdf">MST: Understanding prevalence, resources and considerations to care (2015)</a> by Swords to Ploughshares </li>
+<li><a href="http://www.ptsd.va.gov/professional/newsletters/research-quarterly/V26N2.pdf">Technology and PTSD Care: An Update (2015)</a> PTSD Research Quarterly </li>
 </ul>
 <br>
 <b>Veterans Treatment Courts:</b>
@@ -153,4 +154,4 @@
 <li><a href="https://www.helpguide.org/articles/ptsd-trauma/ptsd-in-veterans.htm">PTSD in Military Veterans: Symptoms, Treatment, and Self-Help (Jan 2017)</a> from HelpGuide.org </li>
 <li><a href="http://www.ptsd.va.gov/professional/index.asp">PTSD: National Center for PTSD</a> by Dept of Veterans Affairs </li>
 <li><a href="http://www.ptsd.va.gov/professional/publications/ptsd-rq.asp">PTSD Research Quarterly</a> from National Center for PTSD (VA) </li>
-<li><a href="http://www.ptsd.va.gov/professional/newsletters/research-quarterly/V26N2.pdf">PTechnology and PTSD Care: An Update (2015)</a> PTSD Research Quarterly </li>
+<li><a href="http://www.ptsd.va.gov/professional/newsletters/research-quarterly/V26N2.pdf">Technology and PTSD Care: An Update (2015)</a> PTSD Research Quarterly </li>
