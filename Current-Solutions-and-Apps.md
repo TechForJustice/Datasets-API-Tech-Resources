@@ -234,6 +234,8 @@ Choose an area:
 <li><a href= "https://www.veteranscrisisline.net/TextTermsOfService.aspx">Veterans Text</a> is a Veterans Crisis Line text-messaging service (text to 838255). Qualified VA responders are standing by to provide free and confidential support even if you’re not registered with VA or enrolled in VA health care.</li>
 <li><a href= "https://vetchange.org/home/index2">VetChange</a> VetChange is a free, confidential online program to help Veterans cut back or stop drinking, and learn to manage PTSD symptoms without using alcohol.  It is self-administered online intervention that uses elements of motivational interviewing, CBT strategies and self-control training to address problematic drinking in people with PTSD. </li>
 </ul>
+<li><a href= "http://milisource.defensemobile.com">MILISOURCE</a> Mobile app provides veterans benefits information and resources, including personalized, profile-driven benefits recommendations. The comprehensive app includes a proprietary database of over 900 veterans benefits available from the VA, state veterans departments and veterans service organizations. </li>
+</ul>
 The <strong><a href= "https://mobile.va.gov/appstore">VA App Store</a></strong> is where you'll find access to more than a dozen apps, including those created specifically for Veterans and their Health Care Professionals. Here are a few: 
 <ul>
 <li><a href= "https://mobile.va.gov/app/stay-quit-coach">Stay Quit Coach</a> was designed to help Veterans with Post-Traumatic Stress Disorder (PTSD) quit smoking. This treatment is based on evidence-based clinical practices, and has been shown to double quit rates for Veterans with PTSD.</li>
