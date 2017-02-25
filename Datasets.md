@@ -139,13 +139,14 @@
 <li><a href="http://www.dallascounty.org/department/courts/probate/veterans_court/veterans_court.php">Dallas County Veterans Court Program</a> by Dallas County </li>
 </ul>
 <br>
-<b>Transition:</b>
+<b>Transition & Employment:</b>
 <ul style="list-style-type:circle">
 <li><a href="http://oaktrust.library.tamu.edu/handle/1969.1/152463"> A Phenomenological Exploration of Combat Veterans’ Experiences as They Transition to Civilian Employment Using Higher Education as Career Development (2014)</a> from Texas A&M </li>
 <li><a href="http://scholarworks.waldenu.edu/cgi/viewcontent.cgi?article=3216&context=dissertations">Transition and Transformation - From Military Combat to College Classroom: Strategies for Success (2016)</a> from Walden University </li>
 <li><a href="http://gradworks.umi.com/36/46/3646791.html">Veteran entrepreneurship: A phenomenological study of the lived experience of veterans' transition from military service to entrepreneurship (2014)</a> from Capella University </li>
 <li><a href="https://www.google.ca/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwj38u3Y5aLSAhUG1xoKHXd-DrAQFgghMAA&url=http%3A%2F%2Fwww.umdcipe.org%2Fconferences%2FMoscow%2Fpapers%2FLife_Transitions_from_Military_to_Civilians__Modeling_Public_Policy_Implications.doc&usg=AFQjCNFPcVcrbGyb6OBszB3LePx3PYzJng">Life Transitions from Military to Civilians: Modeling Public Policy Implications (2011)</a> from Georgetown University, MedStar Health Research Institute, George Washington University, DC VAMC, Washington, DC </li>
 <li><a href="http://pqdtopen.proquest.com/doc/1221247386.html?FMT=AI"> Combat to Corporate: A Qualitative Phenomenological Study on Injured Veterans Transitioning to the Civilian Workforce (2011)</a> from University of Phoenix </li>
+<li><a href="http://www.usveteransmagazine.com/2017/02/23/why-veterans-can-fill-your-companys-tech-skills-gap/">Why Veterans Can Fill Your Company’s Tech Skills Gap (Feb 2017)</a> on US Veterans Magazine </li>
 </ul>
 <br>
 <b>PTSD:</b>
