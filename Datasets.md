@@ -148,6 +148,7 @@
 <li><a href="https://www.google.ca/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwj38u3Y5aLSAhUG1xoKHXd-DrAQFgghMAA&url=http%3A%2F%2Fwww.umdcipe.org%2Fconferences%2FMoscow%2Fpapers%2FLife_Transitions_from_Military_to_Civilians__Modeling_Public_Policy_Implications.doc&usg=AFQjCNFPcVcrbGyb6OBszB3LePx3PYzJng">Life Transitions from Military to Civilians: Modeling Public Policy Implications (2011)</a> from Georgetown University, MedStar Health Research Institute, George Washington University, DC VAMC, Washington, DC </li>
 <li><a href="http://pqdtopen.proquest.com/doc/1221247386.html?FMT=AI"> Combat to Corporate: A Qualitative Phenomenological Study on Injured Veterans Transitioning to the Civilian Workforce (2011)</a> from University of Phoenix </li>
 <li><a href="http://www.usveteransmagazine.com/2017/02/23/why-veterans-can-fill-your-companys-tech-skills-gap/">Why Veterans Can Fill Your Company’s Tech Skills Gap (Feb 2017)</a> on US Veterans Magazine </li>
+<li><a href="https://www.dodtap.mil/index.html">DoD Transistion Assistance Program</a> DoD </li>
 </ul>
 <br>
 <b>PTSD:</b>
