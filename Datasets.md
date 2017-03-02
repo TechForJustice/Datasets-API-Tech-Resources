@@ -108,6 +108,7 @@
 <li><a href="https://www.law.yale.edu/system/files/documents/pdf/unfinishedbusiness.pdf">Unfinished Business: correcting "Bad Paper" for veterans with ptsd (2015)</a> by Veterans Legal Service Clinic and Legal Services organization at Yale Law School </li>
 <li><a href="http://www.courant.com/news/connecticut/hc-vets-discharges-ptsd-20161116-story.html">Connecticut To Help PTSD Vets Upgrade 'Bad Paper' Discharges (2016) </a> in the Hartford Courant </li>
 <li><a href="https://fas.org/sgp/crs/misc/R43928.pdf">Veterans’ Benefits: The Impact of Military Discharges on Basic Eligibility (2015) </a> by the Congressional Research Service </li>
+<li><a href="https://www.highgroundvets.org/what-we-do/">This is the beginning of a revolution in veterans' advocacy (Jan 2016) </a> Highground Veternas Advocacy </li>
 </ul>
 <br>
 <b>MILITARY SEXUAL TRAUMA:</b>
