@@ -99,6 +99,7 @@
 <li><a href="http://www.diversity.va.gov/policy/files/Directive_5978.pdf">VA Directive 5978, Alternative Dispute Resolution (Feb 2013)</a> by the Department of Veterans Affairs </li>
 <li><a href="https://www.va.gov/adr/docs/VHAHndbk.pdf">VA Directive 5978, VHA ADR/Mediation Handbook (2000)</a> by the Department of Veterans Affairs </li>
 <li><a href="https://www.va.gov/ORM/FAQ/mediation.asp">VA Office of Resolution Management (ORM): Mediation Facts (Feb 2013)</a> by the Department of Veterans Affairs </li>
+<li><a href="https://news.vice.com/article/veterans-wait-too-long-for-healthcare-and-maybe-we-should-keep-it-that-way">Veterans Wait Too Long For Healthcare — and Maybe We Should Keep It That Way (2014)</a> Vice News </li>
 </ul>
 <br>
 <b>UNDESIRABLE DISCHARGES:</b>
