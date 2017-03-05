@@ -160,6 +160,7 @@
 <li><a href="http://www.ptsd.va.gov/professional/index.asp">PTSD: National Center for PTSD</a> by Dept of Veterans Affairs </li>
 <li><a href="http://www.ptsd.va.gov/professional/publications/ptsd-rq.asp">PTSD Research Quarterly</a> from National Center for PTSD (VA) </li>
 <li><a href="http://www.ptsd.va.gov/professional/newsletters/research-quarterly/V26N2.pdf">Technology and PTSD Care: An Update (2015)</a> PTSD Research Quarterly </li>
+<li><a href="http://www.thestranger.com/weed/2016/04/13/23950860/three-military-veterans-explain-what-weed-does-for-their-ptsd">Three Military Veterans Explain What Weed Does for Their PTSD (Apr 2016)</a> The Stranger </li>
 </ul>
 <br>
 <b>Suicide Factors:</b>
