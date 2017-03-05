@@ -168,3 +168,4 @@
 <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3407917/">Suicide among War Veterans (2012)</a> Int. J. Environ. Res. Public Health </li>
 <li><a href="http://www.post-gazette.com/local/east/2015/04/09/Recent-Pittsburgh-suicide-brings-to-light-issues-tormenting-female-veterans/stories/201504090102">Recent Pittsburgh suicide brings to light issues tormenting female veterans (2015)</a> Pittsburgh Post-Gazette </li>
 <li><a href="http://www.militarytimes.com/story/veterans/2016/07/07/va-suicide-20-daily-research/86788332/">New VA study finds 20 veterans commit suicide each day (Jul 2016)</a> Miloitary Times</li>
+<li><a href="https://www.theguardian.com/world/2013/feb/01/us-military-suicide-epidemic-veteran">US military struggling to stop suicide epidemic among war veterans (2013)</a> The Guardian</li>
