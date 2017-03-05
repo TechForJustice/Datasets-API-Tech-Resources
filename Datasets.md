@@ -165,5 +165,5 @@
 <b>Suicide Factors:</b>
 <ul style="list-style-type:circle">
 <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3407917/">Suicide among War Veterans (2012)</a> Int. J. Environ. Res. Public Health </li>
-<li><a href="http://www.post-gazette.com/local/east/2015/04/09/Recent-Pittsburgh-suicide-brings-to-light-issues-tormenting-female-veterans/stories/201504090102">Recent Pittsburgh suicide brings to light issues tormenting female veterans (2015)</a> Pittsburgh Post -Gazette </li>
-
+<li><a href="http://www.post-gazette.com/local/east/2015/04/09/Recent-Pittsburgh-suicide-brings-to-light-issues-tormenting-female-veterans/stories/201504090102">Recent Pittsburgh suicide brings to light issues tormenting female veterans (2015)</a> Pittsburgh Post-Gazette </li>
+<li><a href="http://www.militarytimes.com/story/veterans/2016/07/07/va-suicide-20-daily-research/86788332/">New VA study finds 20 veterans commit suicide each day (Jul 2016)</a> Miloitary Times</li>
