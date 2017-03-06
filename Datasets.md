@@ -151,6 +151,8 @@
 <li><a href="http://pqdtopen.proquest.com/doc/1221247386.html?FMT=AI"> Combat to Corporate: A Qualitative Phenomenological Study on Injured Veterans Transitioning to the Civilian Workforce (2011)</a> from University of Phoenix </li>
 <li><a href="http://www.usveteransmagazine.com/2017/02/23/why-veterans-can-fill-your-companys-tech-skills-gap/">Why Veterans Can Fill Your Company’s Tech Skills Gap (Feb 2017)</a> on US Veterans Magazine </li>
 <li><a href="https://www.dodtap.mil/index.html">DoD Transistion Assistance Program</a> DoD </li>
+<li><a href="http://www.usveteransmagazine.com/2017/02/23/why-veterans-can-fill-your-companys-tech-skills-gap/">Why Veterans Can Fill Your Company’s Tech Skills Gap (Feb 2017)</a> on US Veterans Magazine </li>
+<li><a href="https://www.vetroadmap.org">Vet Roadmap</a> Vet Roadmap.org </li>
 </ul>
 <br>
 <b>PTSD:</b>
