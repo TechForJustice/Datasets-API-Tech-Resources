@@ -174,6 +174,6 @@
 <li><a href="https://fivethirtyeight.com/features/suicide-in-the-military/">Always Ready, Always There (Jul 2016)</a> FiveThirtyEight</li>
 </ul>
 <br>
-<b>VA Benefit Claims:</b>
+<b>VA Claims:</b>
 <ul style="list-style-type:circle">
-<li><a href="http://veterandisabilityblog.com/blog/the-c-files-the-truth-is-in-there/">MThe C-Files: The Truth is in There! (Aug 2016)</a> VeteranDisabilityBlog.com </li>
+<li><a href="http://veterandisabilityblog.com/blog/the-c-files-the-truth-is-in-there/">The C-Files: The Truth is in There! (Aug 2016)</a> VeteranDisabilityBlog.com </li>
