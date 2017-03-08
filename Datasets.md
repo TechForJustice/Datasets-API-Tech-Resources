@@ -177,4 +177,4 @@
 <b>VA Claims:</b>
 <ul style="list-style-type:circle">
 <li><a href="http://veterandisabilityblog.com/blog/the-c-files-the-truth-is-in-there/">The C-Files: The Truth is in There! (Aug 2016)</a> VeteranDisabilityBlog.com </li>
-<li><a href="http://www.disabledveterans.org/2015/04/06/va-misleading-veterans-healthevet-medical-records/">TIs VA Misleading Veterans About ‘My HealtheVet’ Medical Records? (2015)</a> DisabledVeterans.org </li>
+<li><a href="http://www.disabledveterans.org/2015/04/06/va-misleading-veterans-healthevet-medical-records/">Is VA Misleading Veterans About ‘My HealtheVet’ Medical Records? (2015)</a> DisabledVeterans.org </li>
