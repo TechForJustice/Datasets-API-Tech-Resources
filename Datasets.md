@@ -127,7 +127,7 @@
 <li><a href="https://www.swords-to-plowshares.org/sites/default/files/Military%20Sexual%20Trauma%20-%20Understanding%20(2015).pdf">MST: Understanding prevalence, resources and considerations to care (2015)</a> by Swords to Ploughshares </li>
 <li><a href="http://www.ptsd.va.gov/professional/newsletters/research-quarterly/V26N2.pdf">Technology and PTSD Care: An Update (2015)</a> PTSD Research Quarterly </li>
 <li><a href="http://www.ozy.com/acumen/sexual-violence-might-reshape-the-female-brain/72030">SEXUAL VIOLENCE MIGHT RESHAPE THE FEMALE BRAIN (Nov 2016)</a> Ozy.com </li>
-<li><a href="http://www.mentalhealth.va.gov/docs/mst_general_factsheet.pdf">Military Sexual Trauma(2015)</a> Dept Veterans Affairs </li>
+<li><a href="http://www.mentalhealth.va.gov/docs/mst_general_factsheet.pdf">Military Sexual Trauma(2015)</a> Dept of Veterans Affairs </li>
 </ul>
 <br>
 <b>Veterans Treatment Courts:</b>
