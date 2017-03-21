@@ -154,6 +154,8 @@
 <li><a href="https://www.dodtap.mil/index.html">DoD Transistion Assistance Program</a> DoD </li>
 <li><a href="http://www.usveteransmagazine.com/2017/02/23/why-veterans-can-fill-your-companys-tech-skills-gap/">Why Veterans Can Fill Your Company’s Tech Skills Gap (Feb 2017)</a> on US Veterans Magazine </li>
 <li><a href="https://www.vetroadmap.org">Vet Roadmap</a> Vet Roadmap.org </li>
+<li><a href="http://cir.usc.edu/wp-content/uploads/2013/10/USC010_CIRLAVetReport_FPpgs.pdf">THE STATE OF THE AMERICAN VETERAN</a>: The Los Angeles County Veterans Study </li>
+<li><a href="https://www.tristatevca.org/assets/documents/tristate-veteran-community-report-2016.pdf">Tristate Veteran Community Report</a>: Progress, Outlook, and Recommendations</li>
 </ul>
 <br>
 <b>PTSD:</b>
