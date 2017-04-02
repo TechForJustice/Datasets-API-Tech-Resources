@@ -175,6 +175,7 @@
 <li><a href="http://www.militarytimes.com/story/veterans/2016/07/07/va-suicide-20-daily-research/86788332/">New VA study finds 20 veterans commit suicide each day (Jul 2016)</a> Miloitary Times</li>
 <li><a href="https://www.theguardian.com/world/2013/feb/01/us-military-suicide-epidemic-veteran">US military struggling to stop suicide epidemic among war veterans (2013)</a> The Guardian</li>
 <li><a href="https://fivethirtyeight.com/features/suicide-in-the-military/">Always Ready, Always There (Jul 2016)</a> FiveThirtyEight</li>
+<li><a href="http://psychnews.psychiatryonline.org/doi/10.1176/pn.46.2.psychnews_46_2_002">Risk Factors for Suicide in Veterans Become Clearer (Jan 2017)</a> PsychiatryOnline</li>
 </ul>
 <br>
 <b>VA Claims:</b>
