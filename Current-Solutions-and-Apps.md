@@ -7,6 +7,7 @@ Choose an area:
 <li><a href="https://docs.google.com/presentation/d/1BmcXKBkmJVL-Ia7dKHwKD1jGITnWtyVtfM-nkW2xH9I/pub?start=true&loop=true&delayms=10000&slide=id.p">Legal Aid Grants: Open Data Standard</a> - Proposed at the Legal Justice Hackathon</li> 
 </ul>
 <br>
+
 # CONSUMER DEBT
 <ul style="list-style-type:circle">
 <li><a href="https://debtlookup.com">Debtlookup</a> - free service which provides scecure and easy access to account-level data and documents supporting claims by legitimate debit collectors.</li>
@@ -40,6 +41,7 @@ Choose an area:
 <li><a href="https://itunes.apple.com/us/app/pay-off-debt/id308554006?mt=8">Pay Off Debt</a> - app which helps user plan how to pay off their debt</li>
 </ul>
 <br>
+
 # TRAFFIC
 <ul style="list-style-type:circle">
 <li><a href="http://www.donotpay.co.uk/signup.php">DoNotPay</a> is a chat bot designed to help people dispute parking violations.</li> 
@@ -49,30 +51,40 @@ Choose an area:
 <li><a href="https://www.getdismissed.com/">GetDismissed</a> fights traffic tickets for free.</li>
 </ul>
 <br>
+
 # WOMEN
 <br>
+
 # SENIORS
 <ul style="list-style-type:circle">
 <li><a href="https://guidechange.com/">Guide Change</a> helps you safely manage your finances while avoiding financial exploitation.</li>
 </ul>
 <br>
+
 # LGBTQA
 <br>
+
 # RACIAL JUSTICE
 <br>
+
 # ENVIRONMENT 
 <br>
+
 # PRIVACY
 <br>
+
 # COURT
 <br>
+
 # SEXUAL HARASSMENT 
 <br>
+
 # POVERTY
 <ul style="list-style-type:circle">
 <li><a href="https://handup.org">HandUp</a> provides nonprofits and donors in the community with a new, simple, and direct way to make an impact on poverty.</li>
 </ul>
 <br>
+
 # HOUSING/HOMELESSNESS
 <ul style="list-style-type:circle">
 <li><a href="http://haystack-hack2end.herokuapp.com/">HayStack</a> is a tool to explore Point in Time data provided by the U.S. Department of Housing and Urban Development across the 25 metro areas involved in the 25 Cities Initiative (Continuums of Care).</li>
@@ -94,6 +106,7 @@ Choose an area:
 <li><a href="http://www.link-sf.com">Link-SF</a> -  website that connects homeless and low-income residents with critical and life-saving resources nearby</li>
 </ul>
 <br>
+
 # DOMESTIC VIOLENCE
 <ul style="list-style-type:circle">
 <li><a href="https://github.com/TechForJustice/protechme">ProTechMe</a> is a chat bot that collects protective order info quickly and efficiently</li>
@@ -129,8 +142,10 @@ Choose an area:
 <li><a href="https://www.whengeorgiasmiled.org/the-aspire-news-app/">Aspire News App</a> - app that contains resources for victims of domestic violence</li>
 </ul>
 <br>
+
 # SEXUAL ASSAULT
 <br>
+
 # HEALTH CARE
 <ul style="list-style-type:circle">
 <li><a href="https://itunes.apple.com/ca/app/find-a-health-center/id379940321?mt=8">Find a Health Center</a> by Health Resources and Services Administration - an app which helps the user find the nearest health center in their community by typing a city, state, or ZIP code</li>
@@ -140,17 +155,20 @@ Choose an area:
 <li><a href="http://www.chicagohealthatlas.org/">Chicago Health Atlas</a> is a place where you can view citywide information about health trends and take action near you to improve your own health.</li>
 <br>
 </ul>
+
 # GOVERNMENT BENEFITS
 <ul style="list-style-type:circle">
 <li><a href="https://play.google.com/store/apps/details?id=com.w2cyk.android.balance4ebtfree&hl=en">Balance 4 SNAP and EBT</a> - an app that lets users register on their system to check their SNAP and EBT card balance</li>
 <li><a href="https://play.google.com/store/apps/details?id=com.propel.ebenefits&hl=en">Fresh EBT</a> - app that lets users check their EBT card balance through entering their EBT/food stamp information on their smartphones</li>
 <li><a href="http://www.snapfresh.org">SnapFresh</a> - service which finds the closest places that accepts EBT cards</li>
 </ul>
+
 # DISABILITY
 <ul style="list-style-type:circle">
 <li><a href="https://play.google.com/store/apps/details?id=com.microhealth.app.myvadiagnosesv2">My VA Disability</a> - app which helps veterans with disability calculate their monthly disability compensation</li>
 <li><a href="https://play.google.com/store/apps/details?id=com.onesolutionapps.disabilityattorneyandroid">Disability Attorney</a> - app which enables disabled citizens to have easier access to lawyers that can help them with their workers compensation, social security disability, and personal injury claims</li>
 </ul>
+
 # DISPUTE RESOLUTION
 <ul style="list-style-type:circle">
 <li><a href="http://dueprocessr.org/courtcal/">Due Processr</a> - helps determine if someone is eligible for appointed counsel or the waiver of fees, and if not, it  directs the user to a site to help find a lawyer</li>
@@ -168,6 +186,7 @@ Choose an area:
 </ul>
 </ul>
 <br>
+
 # ROBOT LAWYERS
 <ul style="list-style-type:circle">
 <li><a href="http://www.rossintelligence.com/">ROSS</a> is an A.I. lawyer that helps human lawyers research faster and focus on advising clients.</li>
@@ -176,6 +195,7 @@ Choose an area:
 <li><a href="http://lawbot.info">LawBot</a> is a chatbot lawyer that helps you understand the laws surrounding major criminal offences in England & Wales. </li>
 </ul>
 <br>
+
 # LEGAL AID
 <ul style="list-style-type:circle">
 <li><a href="https://play.google.com/store/apps/details?id=org.ptla.News">Legal Aid News</a> - Users can employ the app to search for general legal aid news or new developments in legal aid on a state-by-state basis, as well as updated info on national legal centers for low-income people and news on the Legal Services Corp</li>
@@ -184,10 +204,12 @@ Choose an area:
 <li><a href="https://play.google.com/store/apps/details?id=org.ilao.LegalAidApp&hl=en">Illinois Legal Aid App</a>- a field guide to Illinois law. Get easy to understand legal tools for issues like divorce, custody, criminal records, small claims, eviction, foreclosure, unemployment, name change, guardianship and more. 
 </ul>
 <br>
+
 # PRO BONO
 <li><a href="https://www.probono.net">Pro Bono Net</a> - a non-profit organization dedicated to increasing access to justice for the disadvantaged</li>
 </ul>
 <br>
+
 # LEGAL SERVICES
 <ul style="list-style-type:circle">
 <li><a href="https://play.google.com/store/apps/details?id=com.absmallbusinessmarketing.askalawyer&hl=en">Ask a Lawyer</a> - allows user to get legal help, ask any legal questions, and find possible representation</li>
@@ -212,6 +234,7 @@ Choose an area:
 <li><a href="https://play.google.com/store/apps/details?id=com.fiftysteps.droid.trial.dike&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS5maWZ0eXN0ZXBzLmRyb2lkLnRyaWFsLmRpa2UiXQ..">Dike trial: Calendar 4 Lawyers</a> - calendar app specifically made for lawyers to organize and track their case hearings</li>
 </ul>
 <br>
+
 # IMMIGRATION
 <ul style="list-style-type:circle">
 <li><a href="https://www.citizenshipworks.org">Citizenshipworks</a> - walks eligible immigrants through the naturalization process. Using the app, they’re able to determine their eligibility to become a U.S. citizen, find out what documents they need to make it happen, and discover access to free and low-cost legal help for naturalization.</li>
@@ -219,6 +242,7 @@ Choose an area:
 <li><a href="https://itunes.apple.com/us/app/immigo/id891595380?mt=8">Immigo</a> is a comprehensive resource providing up-to-date, relevant and need-to-know information for practitioners working in the immigrant integration space.</li>
 </ul>
 <br>
+
 # VETERANS
 <ul style="list-style-type:circle">
 <li><a href="https://www.healthit.gov/patients-families/join-blue-button-movement">Blue Button</a> originated at the Veteran’s Administration as a symbol on its patient portal that beneficiaries could click to securely download their own health record electronically. Since then the Blue Button has spread beyond VA to other government agencies and the private sector.</li>
@@ -251,11 +275,13 @@ The <strong><a href= "https://mobile.va.gov/appstore">VA App Store</a></strong> 
 <li><a href= "https://www.dodtap.mil/about_DoDTAP.html">DoD Transition Assistance Program</a> - TAP provides information and training to ensure Service members separating from Active Duty are prepared for their next step in life - whether pursuing additional education, finding a job in the public or private sector, or starting their own business. In 2013, TAP was redesigned into a cohesive, modular, outcome-based program that bolsters and standardizes the opportunities, services, and training that Service members receive to better prepare them to pursue their post-military career goals.</li>
 </ul>
 <br>
+
 # EMPLOYMENT
 <ul style="list-style-type:circle">
 <li><a href="https://www.dol.gov/general/apps/timesheet">DOL - Timesheet</a> - used to record the hours an employee works, and it automatically calculates overtime at time-and-a-half the regular rate of pay.</li>
 </ul>
 <br>
+
 # CHILDREN
 <ul style="list-style-type:circle">
 <li><a href="https://www.fbi.gov/news/stories/fbi-releases-new-version-of-child-id-app">FBI Child ID</a> - provides a convenient place to electronically store photos and vital information about your children so that it’s literally right at hand if you need it.</li>
@@ -263,6 +289,7 @@ The <strong><a href= "https://mobile.va.gov/appstore">VA App Store</a></strong> 
 <li><a href="http://sitwithus.io/#!/Home">Sit With Us</a> is designed to promote a kinder and more inclusive school community.</li>
 </ul>
 <br>
+
 # FAMILY LAW
 <ul style="list-style-type:circle">
 <li><a href="https://supportpay.com/">SupportPay</a> - This app makes it easy for unmarried parents to track child support payments and other payments (medical bills, extracurricular activities), making it easy to resolve conflict, stay organized and document money exchange in the event of legal conflict. </li>
@@ -272,19 +299,23 @@ The <strong><a href= "https://mobile.va.gov/appstore">VA App Store</a></strong> 
 <li><a href="https://www.2houses.com/">2houses</a> - this app and site also helps unmarried couples co-parent, through a shared calendar, expense tracking and balancing, list-making and and photo and comment sharing. </li>
 </ul>
 <br>
+
 # CYBERBULLYING 
 <br>
+
 # DISASTER RELIEF 
 <ul style="list-style-type:circle">
 <li><a href="https://www.mrelief.com/#?category=All">mRelief</a> - a non-profit organization that provides an easy to use online and text messaging tool for low-income Americans to find out if they qualify for social services</li>
 <li><a href="https://devpost.com/software/disastr">Disastr</a> - it offers access to disaster relief, breaking news and links to legal professionals who can help in the aftermath of a catastrophe. Included is advice on getting food stamps and health care, and navigating insurance after a natural disaster.</li>
 </ul>
 <br>
+
 # EMERGENCY SUPPORT
 <ul style="list-style-type:circle">
 <li><a href="https://github.com/betterangels/buoy/wiki">Buoy</a> is a free and open source technology for connecting users with friends and allies in times of need. It exists to empower you and your communities with a decentralized, customized, alternative crisis response system that does not rely on intervention by the police, other government services, or corporations.</li>
 </ul>
 <br>
+
 # POLICE CONDUCT
 <ul style="list-style-type:circle">
 <li><a href="http://oh-crap-app.com">"Oh Crap!" App</a> - protects drivers from an overly aggressive driving-while-intoxicated stop</li>
@@ -295,6 +326,7 @@ The <strong><a href= "https://mobile.va.gov/appstore">VA App Store</a></strong> 
 <li><a href="http://convictions.smartchicagoapps.org/">Convicted in Cook</a> is an analysis of five years of Cook County conviction data.</li>
 </ul>
 <br>
+
 # CRIMINAL RECORD 
 <ul style="list-style-type:circle">
 <li><a href="http://www.expunge.io/">Expunge.io</a> is a resource for people with juvenile records in Illinois. Expunge.io seeks to clarify juvenile expungement, with the hope of more people getting their records erased.</li>
@@ -302,6 +334,7 @@ The <strong><a href= "https://mobile.va.gov/appstore">VA App Store</a></strong> 
 <li><a href="https://github.com/ReEntry-me">ReEntry.Me</a> helps parolees find resources with less friction. 
 </ul>
 <br>
+
 # CRIME 
 <li><a href="http://www.washingtonpost.com/wp-srv/special/local/dc-shot-spotter/">DC ShotSpotter</a> - uses a microphone network to identify the audio signature of a gunshot, triangulates its location and notifies police</li>
 </ul>
