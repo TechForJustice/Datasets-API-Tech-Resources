@@ -7,6 +7,10 @@ This is an alphabetical list of companies and apps that provide solutions for in
 <li><a href="https://www.fbi.gov/news/stories/fbi-releases-new-version-of-child-id-app">FBI Child ID</a> - provides a convenient place to electronically store photos and vital information about your children so that it’s literally right at hand if you need it.</li>
 <li><a href="https://devpost.com/software/navigating-dcfs">Navigating DCFS</a> empowers clients as they navigate DCFS Investigations.</li>
 <li><a href="http://sitwithus.io/#!/Home">Sit With Us</a> is designed to promote a kinder and more inclusive school community.</li>
+<li><a href="https://www.wearethorn.org">Thorn</a> is a platform that supports the development of technologies to stop child sexual exploitation.</li>
+<li><a href="https://www.htspotlight.com">Spotlight</a>'s goal is to improve the effectiveness and efficiency of domestic sex trafficking investigations and increase the number of women and children who are identified and connected with help resources.</li>
+<li><a href="https://www.bark.us">Bark</a> is a watchdog engine which uses advanced algorithms to look for a variety of potential issues, such as cyberbullying, sexting, drug-related content, and signs of depression. If a potential issue is detected, a text/email alert is sent to guardians to review the issue, along with recommended actions on how to handle the situation.</li>
+<li><a href=""></a></li>
 </ul>
 <br>
 
