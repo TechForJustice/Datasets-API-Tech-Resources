@@ -1,4 +1,4 @@
-Choose an area: 
+An alphabetical list of companies and apps that provide solutions for increasing access to justice: 
 <br>
 
 # CHILDREN
