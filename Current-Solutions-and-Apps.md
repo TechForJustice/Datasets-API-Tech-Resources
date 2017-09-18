@@ -1,10 +1,24 @@
 Choose an area: 
 <br>
-# GRANT REPORTING
+
+# CHILDREN
 <ul style="list-style-type:circle">
-<li><a href="https://www.grantvantage.com/">Grantvantage</a> - software that gives project managers a complete, top-down view of all grants, contracts, sub-awards, objectives, performance measures, activities, and staff assignments</li>
-<li><a href="http://crcamerica.org/resources/common-grant-forms/">Common grant forms</a> by Community Resource Center America - these common grant forms by CRC allows Colorado grantseekers to use a single form for many different applications and reports</li>
-<li><a href="https://docs.google.com/presentation/d/1BmcXKBkmJVL-Ia7dKHwKD1jGITnWtyVtfM-nkW2xH9I/pub?start=true&loop=true&delayms=10000&slide=id.p">Legal Aid Grants: Open Data Standard</a> - Proposed at the Legal Justice Hackathon</li> 
+<li><a href="https://www.fbi.gov/news/stories/fbi-releases-new-version-of-child-id-app">FBI Child ID</a> - provides a convenient place to electronically store photos and vital information about your children so that it’s literally right at hand if you need it.</li>
+<li><a href="https://devpost.com/software/navigating-dcfs">Navigating DCFS</a> empowers clients as they navigate DCFS Investigations.</li>
+<li><a href="http://sitwithus.io/#!/Home">Sit With Us</a> is designed to promote a kinder and more inclusive school community.</li>
+</ul>
+<br>
+
+# CRIME 
+<li><a href="http://www.washingtonpost.com/wp-srv/special/local/dc-shot-spotter/">DC ShotSpotter</a> - uses a microphone network to identify the audio signature of a gunshot, triangulates its location and notifies police</li>
+</ul>
+<br>
+
+# CRIMINAL RECORD 
+<ul style="list-style-type:circle">
+<li><a href="http://www.expunge.io/">Expunge.io</a> is a resource for people with juvenile records in Illinois. Expunge.io seeks to clarify juvenile expungement, with the hope of more people getting their records erased.</li>
+<li><a href="https://github.com/recordbleach/tx-recordbleach-api">RecordBleach</a> is a tool that enables Texans to prepare necessary court documents for expunction of certain arrests, charge, and convictions.</li>
+<li><a href="https://github.com/ReEntry-me">ReEntry.Me</a> helps parolees find resources with less friction. 
 </ul>
 <br>
 
@@ -42,68 +56,40 @@ Choose an area:
 </ul>
 <br>
 
-# TRAFFIC
-<ul style="list-style-type:circle">
-<li><a href="http://www.donotpay.co.uk/signup.php">DoNotPay</a> is a chat bot designed to help people dispute parking violations.</li> 
-<li><a href="https://www.fixedlaw.com/">Fixed</a> is an app that helps you fight tickets.</li>
-<li><a href="https://offtherecord.com/">Off The Record</a> lets you contest your traffic ticket directly from your smart phone.</li>
-<li><a href="http://appwinit.com/">WinIt</a> helps you manage and dispute your NYC parking tickets.</li>
-<li><a href="https://www.getdismissed.com/">GetDismissed</a> fights traffic tickets for free.</li>
-</ul>
-<br>
-
-# WOMEN
-<br>
-
-# SENIORS
-<ul style="list-style-type:circle">
-<li><a href="https://guidechange.com/">Guide Change</a> helps you safely manage your finances while avoiding financial exploitation.</li>
-</ul>
-<br>
-
-# LGBTQA
-<br>
-
-# RACIAL JUSTICE
-<br>
-
-# ENVIRONMENT 
-<br>
-
-# PRIVACY
-<br>
-
 # COURT
 <br>
 
-# SEXUAL HARASSMENT 
+# CYBERBULLYING 
 <br>
 
-# POVERTY
+# DISABILITY
 <ul style="list-style-type:circle">
-<li><a href="https://handup.org">HandUp</a> provides nonprofits and donors in the community with a new, simple, and direct way to make an impact on poverty.</li>
+<li><a href="https://play.google.com/store/apps/details?id=com.microhealth.app.myvadiagnosesv2">My VA Disability</a> - app which helps veterans with disability calculate their monthly disability compensation</li>
+<li><a href="https://play.google.com/store/apps/details?id=com.onesolutionapps.disabilityattorneyandroid">Disability Attorney</a> - app which enables disabled citizens to have easier access to lawyers that can help them with their workers compensation, social security disability, and personal injury claims</li>
+</ul>
+
+# DISASTER RELIEF 
+<ul style="list-style-type:circle">
+<li><a href="https://www.mrelief.com/#?category=All">mRelief</a> - a non-profit organization that provides an easy to use online and text messaging tool for low-income Americans to find out if they qualify for social services</li>
+<li><a href="https://devpost.com/software/disastr">Disastr</a> - it offers access to disaster relief, breaking news and links to legal professionals who can help in the aftermath of a catastrophe. Included is advice on getting food stamps and health care, and navigating insurance after a natural disaster.</li>
 </ul>
 <br>
 
-# HOUSING/HOMELESSNESS
+# DISPUTE RESOLUTION
 <ul style="list-style-type:circle">
-<li><a href="http://haystack-hack2end.herokuapp.com/">HayStack</a> is a tool to explore Point in Time data provided by the U.S. Department of Housing and Urban Development across the 25 metro areas involved in the 25 Cities Initiative (Continuums of Care).</li>
-<li><a href="https://play.google.com/store/apps/details?id=resources.hud.gov.resourcelocator_android">HUD Resource Locator</a> by US Department of Housing and Urban Development - app that helps users discover commonly requested federal housing resources within their community</li>
-<li><a href="https://gocopia.com/#/">Copia</a> uses technology to streamline the process of surplus food and distribution.</li>
-<li><a href="http://www.antievictionmap.com/">Anti-eviction Map</a> - Radical data visualization and digital storytelling collective documenting the dispossession of SF Bay Area residents.</li>
-<li><a href="https://play.google.com/store/apps/details?id=com.grants.hud.app">HUD Grants</a> by US Department of Housing and Urban Development - app that allows users to find all grants which are listed on Grants.gov for Housing Urban Development</li>
-<li><a href="https://play.google.com/store/apps/details?id=info.NYCHA.Mobile.MyNYCHA&hl=en">My NYCHA</a> by the New York City Housing Authority - app that allows public housing residents to create, submit, schedule, view and update maintenance service requests, view alerts and outages related to their developments, view their scheduled inspections and maintain their contact information via their smartphones and tablets</li>
-<li><a href="https://play.google.com/store/apps/details?id=com.nationwide.evictionApp">Eviction App</a> - app which allows the user to  manage their eviction needs electronically</li>
-<li><a href="https://www.huduser.gov/portal/pdr_mobile.html">PD&R Mobile Apps</a> by US Department of Housing and Urban Development - list of apps created by the US Department of Housing and Urban Development to provide the public with the latest housing research and data</li>
-<li><a href="http://philly.sheltr.org/">Sheltr</a> - mobile-friendly web app that provides information to guide individuals in Philadelphia to an intake center, a place where meals can be accessed, and a place to sleep for the night</li>
-<li><a href="http://weshelter.org/">WeShelter</a> - app that lets user contribute to the homeless in New York City</li>
-<li><a href="https://itunes.apple.com/us/app/street-reach-cincinnati/id1116784336?mt=8">Street Reach Cincinnati</a> - app which allows users to make a report of someone living on the street to the local agencies that will attempt to make contact with the person/s</li>
-<li><a href="https://github.com/shelterconnect">ShelterConnect</a> - open-source platform that optimizes the distribution of food donations in Los Angeles</li>
-<li><a href="https://www.wecount.org/Account/Login">WeCount</a> - helps people safely ask for items they need, and helps community members give directly to their neighbors</li>
-<li><a href="https://www.ourcalling.org/app/">Our App</a> - app that user provides an ample selection of homeless aiding tasks right at their fingertips</li>
-<li><a href="https://www.makinghomeaffordable.gov/pages/default.aspx">Making Home Affordable website</a> by US Housing and Urban Development - service offered by the US Housing and Urban Development sector designed to help Americans with mortgage problems</li>
-<li><a href="http://wav.dotcreate.co">We are visible</a> - a peer support network for the homeless</li>
-<li><a href="http://www.link-sf.com">Link-SF</a> -  website that connects homeless and low-income residents with critical and life-saving resources nearby</li>
+<li><a href="http://dueprocessr.org/courtcal/">Due Processr</a> - helps determine if someone is eligible for appointed counsel or the waiver of fees, and if not, it  directs the user to a site to help find a lawyer</li>
+<li><a href="http://www.ujuj.org">UJUJ</a> - an online dispute resolution tool that allows parties to a small claims case to create their arguments on video and upload them to the web site for the Internet public to vote on the outcome</li>
+<li><a href="https://otterkids.com/">Otter</a> - enables students to resolve conflicts with peers and adults through Online Dispute Resolution & SEL Monitoring</li>
+<li><a href="http://modria.com/">Modria</a> - an online dispute resoultion service for eCommerce cases</li>
+<li><a href="http://www.youstice.com/en/">Youstice</a> - online dispute resolution service which helps companies seamlessly communicate with their customers and handle claims, so that customers can spend more time shopping and less time making complaints</li>
+<li><a href="https://itunes.apple.com/us/app/fix-a-fight/id376117430?mt=8">Fix-a-fight</a> - app which helps the user resolve a conflict</li>
+<li><a href="https://www.smartsettle.com/">SmartSettle</a> - service which provides users softwares on settling conflicts and disputes</li>
+<li><a href="https://arbitranet.com.br/">Arbitranet</a> - online arbitration chamber in Brazil that offers reliable, secure, and efficient way to resolve conflicts arising from commercial contracts</li>
+<li><a href="http://www.virtualcourthouse.com/">Virtual Courthouse</a> - onlinde dispute resolution service that provides users with experienced arbitrators and mediators</li>
+<li><a href="http://www.peopleclaim.com/">PeopleClaim</a> - online dispute resolution service</li>
+<li><a href="https://www.usaid.gov/results-data/success-stories/virtual-court-rooms-help-colombian-judicial-system">USAID Virtual Courtrooms</a> - virtual courtrooms designed by the USAID</li>
+<li><a href="https://www.civilresolutionbc.ca">Civil Resolution Tribunal</a> - Canada’s first online tribunal for resolving strata and small claims disputes</li>
+</ul>
 </ul>
 <br>
 
@@ -143,7 +129,44 @@ Choose an area:
 </ul>
 <br>
 
-# SEXUAL ASSAULT
+# EMERGENCY SUPPORT
+<ul style="list-style-type:circle">
+<li><a href="https://github.com/betterangels/buoy/wiki">Buoy</a> is a free and open source technology for connecting users with friends and allies in times of need. It exists to empower you and your communities with a decentralized, customized, alternative crisis response system that does not rely on intervention by the police, other government services, or corporations.</li>
+</ul>
+<br>
+
+# EMPLOYMENT
+<ul style="list-style-type:circle">
+<li><a href="https://www.dol.gov/general/apps/timesheet">DOL - Timesheet</a> - used to record the hours an employee works, and it automatically calculates overtime at time-and-a-half the regular rate of pay.</li>
+</ul>
+<br>
+
+# ENVIRONMENT 
+<br>
+
+# FAMILY LAW
+<ul style="list-style-type:circle">
+<li><a href="https://supportpay.com/">SupportPay</a> - This app makes it easy for unmarried parents to track child support payments and other payments (medical bills, extracurricular activities), making it easy to resolve conflict, stay organized and document money exchange in the event of legal conflict. </li>
+<li><a href="http://squarehub.com/">SquareHub</a> - an app that incorporates a shared calendar, for scheduling vacations and soccer practice, text messaging and photo sharing for familes with divorced parents.</li>
+<li><a href="https://www.wevorce.com/">Wevorce</a> - aims to take the expense and contention out of divorce by surveying customers, who are then directed to a team of divorce professionals that make sense for them.</li>
+<li><a href="https://www.ourfamilywizard.com/">Our Family Wizard</a> - suite of tools that support co-parenting, including expense tracking, medical record and calendar sharing, and a virtual diary.</li>
+<li><a href="https://www.2houses.com/">2houses</a> - this app and site also helps unmarried couples co-parent, through a shared calendar, expense tracking and balancing, list-making and and photo and comment sharing. </li>
+</ul>
+<br>
+
+# GOVERNMENT BENEFITS
+<ul style="list-style-type:circle">
+<li><a href="https://play.google.com/store/apps/details?id=com.w2cyk.android.balance4ebtfree&hl=en">Balance 4 SNAP and EBT</a> - an app that lets users register on their system to check their SNAP and EBT card balance</li>
+<li><a href="https://play.google.com/store/apps/details?id=com.propel.ebenefits&hl=en">Fresh EBT</a> - app that lets users check their EBT card balance through entering their EBT/food stamp information on their smartphones</li>
+<li><a href="http://www.snapfresh.org">SnapFresh</a> - service which finds the closest places that accepts EBT cards</li>
+</ul>
+
+# GRANT REPORTING
+<ul style="list-style-type:circle">
+<li><a href="https://www.grantvantage.com/">Grantvantage</a> - software that gives project managers a complete, top-down view of all grants, contracts, sub-awards, objectives, performance measures, activities, and staff assignments</li>
+<li><a href="http://crcamerica.org/resources/common-grant-forms/">Common grant forms</a> by Community Resource Center America - these common grant forms by CRC allows Colorado grantseekers to use a single form for many different applications and reports</li>
+<li><a href="https://docs.google.com/presentation/d/1BmcXKBkmJVL-Ia7dKHwKD1jGITnWtyVtfM-nkW2xH9I/pub?start=true&loop=true&delayms=10000&slide=id.p">Legal Aid Grants: Open Data Standard</a> - Proposed at the Legal Justice Hackathon</li> 
+</ul>
 <br>
 
 # HEALTH CARE
@@ -156,43 +179,33 @@ Choose an area:
 <br>
 </ul>
 
-# GOVERNMENT BENEFITS
+# HOUSING/HOMELESSNESS
 <ul style="list-style-type:circle">
-<li><a href="https://play.google.com/store/apps/details?id=com.w2cyk.android.balance4ebtfree&hl=en">Balance 4 SNAP and EBT</a> - an app that lets users register on their system to check their SNAP and EBT card balance</li>
-<li><a href="https://play.google.com/store/apps/details?id=com.propel.ebenefits&hl=en">Fresh EBT</a> - app that lets users check their EBT card balance through entering their EBT/food stamp information on their smartphones</li>
-<li><a href="http://www.snapfresh.org">SnapFresh</a> - service which finds the closest places that accepts EBT cards</li>
-</ul>
-
-# DISABILITY
-<ul style="list-style-type:circle">
-<li><a href="https://play.google.com/store/apps/details?id=com.microhealth.app.myvadiagnosesv2">My VA Disability</a> - app which helps veterans with disability calculate their monthly disability compensation</li>
-<li><a href="https://play.google.com/store/apps/details?id=com.onesolutionapps.disabilityattorneyandroid">Disability Attorney</a> - app which enables disabled citizens to have easier access to lawyers that can help them with their workers compensation, social security disability, and personal injury claims</li>
-</ul>
-
-# DISPUTE RESOLUTION
-<ul style="list-style-type:circle">
-<li><a href="http://dueprocessr.org/courtcal/">Due Processr</a> - helps determine if someone is eligible for appointed counsel or the waiver of fees, and if not, it  directs the user to a site to help find a lawyer</li>
-<li><a href="http://www.ujuj.org">UJUJ</a> - an online dispute resolution tool that allows parties to a small claims case to create their arguments on video and upload them to the web site for the Internet public to vote on the outcome</li>
-<li><a href="https://otterkids.com/">Otter</a> - enables students to resolve conflicts with peers and adults through Online Dispute Resolution & SEL Monitoring</li>
-<li><a href="http://modria.com/">Modria</a> - an online dispute resoultion service for eCommerce cases</li>
-<li><a href="http://www.youstice.com/en/">Youstice</a> - online dispute resolution service which helps companies seamlessly communicate with their customers and handle claims, so that customers can spend more time shopping and less time making complaints</li>
-<li><a href="https://itunes.apple.com/us/app/fix-a-fight/id376117430?mt=8">Fix-a-fight</a> - app which helps the user resolve a conflict</li>
-<li><a href="https://www.smartsettle.com/">SmartSettle</a> - service which provides users softwares on settling conflicts and disputes</li>
-<li><a href="https://arbitranet.com.br/">Arbitranet</a> - online arbitration chamber in Brazil that offers reliable, secure, and efficient way to resolve conflicts arising from commercial contracts</li>
-<li><a href="http://www.virtualcourthouse.com/">Virtual Courthouse</a> - onlinde dispute resolution service that provides users with experienced arbitrators and mediators</li>
-<li><a href="http://www.peopleclaim.com/">PeopleClaim</a> - online dispute resolution service</li>
-<li><a href="https://www.usaid.gov/results-data/success-stories/virtual-court-rooms-help-colombian-judicial-system">USAID Virtual Courtrooms</a> - virtual courtrooms designed by the USAID</li>
-<li><a href="https://www.civilresolutionbc.ca">Civil Resolution Tribunal</a> - Canada’s first online tribunal for resolving strata and small claims disputes</li>
-</ul>
+<li><a href="http://haystack-hack2end.herokuapp.com/">HayStack</a> is a tool to explore Point in Time data provided by the U.S. Department of Housing and Urban Development across the 25 metro areas involved in the 25 Cities Initiative (Continuums of Care).</li>
+<li><a href="https://play.google.com/store/apps/details?id=resources.hud.gov.resourcelocator_android">HUD Resource Locator</a> by US Department of Housing and Urban Development - app that helps users discover commonly requested federal housing resources within their community</li>
+<li><a href="https://gocopia.com/#/">Copia</a> uses technology to streamline the process of surplus food and distribution.</li>
+<li><a href="http://www.antievictionmap.com/">Anti-eviction Map</a> - Radical data visualization and digital storytelling collective documenting the dispossession of SF Bay Area residents.</li>
+<li><a href="https://play.google.com/store/apps/details?id=com.grants.hud.app">HUD Grants</a> by US Department of Housing and Urban Development - app that allows users to find all grants which are listed on Grants.gov for Housing Urban Development</li>
+<li><a href="https://play.google.com/store/apps/details?id=info.NYCHA.Mobile.MyNYCHA&hl=en">My NYCHA</a> by the New York City Housing Authority - app that allows public housing residents to create, submit, schedule, view and update maintenance service requests, view alerts and outages related to their developments, view their scheduled inspections and maintain their contact information via their smartphones and tablets</li>
+<li><a href="https://play.google.com/store/apps/details?id=com.nationwide.evictionApp">Eviction App</a> - app which allows the user to  manage their eviction needs electronically</li>
+<li><a href="https://www.huduser.gov/portal/pdr_mobile.html">PD&R Mobile Apps</a> by US Department of Housing and Urban Development - list of apps created by the US Department of Housing and Urban Development to provide the public with the latest housing research and data</li>
+<li><a href="http://philly.sheltr.org/">Sheltr</a> - mobile-friendly web app that provides information to guide individuals in Philadelphia to an intake center, a place where meals can be accessed, and a place to sleep for the night</li>
+<li><a href="http://weshelter.org/">WeShelter</a> - app that lets user contribute to the homeless in New York City</li>
+<li><a href="https://itunes.apple.com/us/app/street-reach-cincinnati/id1116784336?mt=8">Street Reach Cincinnati</a> - app which allows users to make a report of someone living on the street to the local agencies that will attempt to make contact with the person/s</li>
+<li><a href="https://github.com/shelterconnect">ShelterConnect</a> - open-source platform that optimizes the distribution of food donations in Los Angeles</li>
+<li><a href="https://www.wecount.org/Account/Login">WeCount</a> - helps people safely ask for items they need, and helps community members give directly to their neighbors</li>
+<li><a href="https://www.ourcalling.org/app/">Our App</a> - app that user provides an ample selection of homeless aiding tasks right at their fingertips</li>
+<li><a href="https://www.makinghomeaffordable.gov/pages/default.aspx">Making Home Affordable website</a> by US Housing and Urban Development - service offered by the US Housing and Urban Development sector designed to help Americans with mortgage problems</li>
+<li><a href="http://wav.dotcreate.co">We are visible</a> - a peer support network for the homeless</li>
+<li><a href="http://www.link-sf.com">Link-SF</a> -  website that connects homeless and low-income residents with critical and life-saving resources nearby</li>
 </ul>
 <br>
 
-# ROBOT LAWYERS
+# IMMIGRATION
 <ul style="list-style-type:circle">
-<li><a href="http://www.rossintelligence.com/">ROSS</a> is an A.I. lawyer that helps human lawyers research faster and focus on advising clients.</li>
-<li><a href="http://www.donotpay.co.uk/">Do Not Pay</a>, The World's First Robot Lawyer, helps with parking tickets</li>
-<li><a href="https://www.legalrobot.com/">Legal Robot</a> Artificial Intelligence for Legal Documents</li>
-<li><a href="http://lawbot.info">LawBot</a> is a chatbot lawyer that helps you understand the laws surrounding major criminal offences in England & Wales. </li>
+<li><a href="https://www.citizenshipworks.org">Citizenshipworks</a> - walks eligible immigrants through the naturalization process. Using the app, they’re able to determine their eligibility to become a U.S. citizen, find out what documents they need to make it happen, and discover access to free and low-cost legal help for naturalization.</li>
+<li><a href="http://www.lawhelpmn.org/resource/pocket-daca">Pocket DACA</a> - a helpful self-screening tool for foreign children living in the U.S. without the proper immigration paperwork</li>
+<li><a href="https://itunes.apple.com/us/app/immigo/id891595380?mt=8">Immigo</a> is a comprehensive resource providing up-to-date, relevant and need-to-know information for practitioners working in the immigrant integration space.</li>
 </ul>
 <br>
 
@@ -202,11 +215,6 @@ Choose an area:
 <li><a href="https://ptla.org/finder/">Legal Aid Finder by state</a> - service which enables the user to find legal aid programs around the country</li>
 <li><a href="http://helpmelaw.org/webapp/">HelpMeLaw Legal Aid</a> - service that offers Maine residents free help in finding legal aid</li>
 <li><a href="https://play.google.com/store/apps/details?id=org.ilao.LegalAidApp&hl=en">Illinois Legal Aid App</a>- a field guide to Illinois law. Get easy to understand legal tools for issues like divorce, custody, criminal records, small claims, eviction, foreclosure, unemployment, name change, guardianship and more. 
-</ul>
-<br>
-
-# PRO BONO
-<li><a href="https://www.probono.net">Pro Bono Net</a> - a non-profit organization dedicated to increasing access to justice for the disadvantaged</li>
 </ul>
 <br>
 
@@ -235,11 +243,65 @@ Choose an area:
 </ul>
 <br>
 
-# IMMIGRATION
+# LGBTQA
+<br>
+
+# POLICE CONDUCT
 <ul style="list-style-type:circle">
-<li><a href="https://www.citizenshipworks.org">Citizenshipworks</a> - walks eligible immigrants through the naturalization process. Using the app, they’re able to determine their eligibility to become a U.S. citizen, find out what documents they need to make it happen, and discover access to free and low-cost legal help for naturalization.</li>
-<li><a href="http://www.lawhelpmn.org/resource/pocket-daca">Pocket DACA</a> - a helpful self-screening tool for foreign children living in the U.S. without the proper immigration paperwork</li>
-<li><a href="https://itunes.apple.com/us/app/immigo/id891595380?mt=8">Immigo</a> is a comprehensive resource providing up-to-date, relevant and need-to-know information for practitioners working in the immigrant integration space.</li>
+<li><a href="http://oh-crap-app.com">"Oh Crap!" App</a> - protects drivers from an overly aggressive driving-while-intoxicated stop</li>
+<li><a href="http://www.nyclu.org/app">Stop and Frisk Watch App</a> - allows a neighborhood bystander to record a questionable stop-and-frisk with just a flick of the finger.</li>
+<li><a href="https://www.aclu.org/feature/aclu-apps-record-police-conduct">Mobile Justice</a> is a collection of ACLU apps to record police conduct, with apps for 18 states.</li>
+<li><a href="https://cpdb.co/data/b411jW/citizens-police-data-project">Citizens Police Data Project</a> is a database of 56,000 misconduct complaint records for more than 8,500 Chicago police officers.</li>
+<li><a href="http://crime-punishment.smartchicagoapps.org/">Crime and Punishment in Chicago</a> is an index of data sources surrounding this criminal justice system as it is in Chicago.</li>
+<li><a href="http://convictions.smartchicagoapps.org/">Convicted in Cook</a> is an analysis of five years of Cook County conviction data.</li>
+</ul>
+<br>
+
+# POVERTY
+<ul style="list-style-type:circle">
+<li><a href="https://handup.org">HandUp</a> provides nonprofits and donors in the community with a new, simple, and direct way to make an impact on poverty.</li>
+</ul>
+<br>
+
+# PRIVACY
+<br>
+
+# PRO BONO
+<li><a href="https://www.probono.net">Pro Bono Net</a> - a non-profit organization dedicated to increasing access to justice for the disadvantaged</li>
+</ul>
+<br>
+
+# RACIAL JUSTICE
+<br>
+
+# ROBOT LAWYERS
+<ul style="list-style-type:circle">
+<li><a href="http://www.rossintelligence.com/">ROSS</a> is an A.I. lawyer that helps human lawyers research faster and focus on advising clients.</li>
+<li><a href="http://www.donotpay.co.uk/">Do Not Pay</a>, The World's First Robot Lawyer, helps with parking tickets</li>
+<li><a href="https://www.legalrobot.com/">Legal Robot</a> Artificial Intelligence for Legal Documents</li>
+<li><a href="http://lawbot.info">LawBot</a> is a chatbot lawyer that helps you understand the laws surrounding major criminal offences in England & Wales. </li>
+</ul>
+<br>
+
+# SENIORS
+<ul style="list-style-type:circle">
+<li><a href="https://guidechange.com/">Guide Change</a> helps you safely manage your finances while avoiding financial exploitation.</li>
+</ul>
+<br>
+
+# SEXUAL HARASSMENT 
+<br>
+
+# SEXUAL ASSAULT
+<br>
+
+# TRAFFIC
+<ul style="list-style-type:circle">
+<li><a href="http://www.donotpay.co.uk/signup.php">DoNotPay</a> is a chat bot designed to help people dispute parking violations.</li> 
+<li><a href="https://www.fixedlaw.com/">Fixed</a> is an app that helps you fight tickets.</li>
+<li><a href="https://offtherecord.com/">Off The Record</a> lets you contest your traffic ticket directly from your smart phone.</li>
+<li><a href="http://appwinit.com/">WinIt</a> helps you manage and dispute your NYC parking tickets.</li>
+<li><a href="https://www.getdismissed.com/">GetDismissed</a> fights traffic tickets for free.</li>
 </ul>
 <br>
 
@@ -276,66 +338,5 @@ The <strong><a href= "https://mobile.va.gov/appstore">VA App Store</a></strong> 
 </ul>
 <br>
 
-# EMPLOYMENT
-<ul style="list-style-type:circle">
-<li><a href="https://www.dol.gov/general/apps/timesheet">DOL - Timesheet</a> - used to record the hours an employee works, and it automatically calculates overtime at time-and-a-half the regular rate of pay.</li>
-</ul>
-<br>
-
-# CHILDREN
-<ul style="list-style-type:circle">
-<li><a href="https://www.fbi.gov/news/stories/fbi-releases-new-version-of-child-id-app">FBI Child ID</a> - provides a convenient place to electronically store photos and vital information about your children so that it’s literally right at hand if you need it.</li>
-<li><a href="https://devpost.com/software/navigating-dcfs">Navigating DCFS</a> empowers clients as they navigate DCFS Investigations.</li>
-<li><a href="http://sitwithus.io/#!/Home">Sit With Us</a> is designed to promote a kinder and more inclusive school community.</li>
-</ul>
-<br>
-
-# FAMILY LAW
-<ul style="list-style-type:circle">
-<li><a href="https://supportpay.com/">SupportPay</a> - This app makes it easy for unmarried parents to track child support payments and other payments (medical bills, extracurricular activities), making it easy to resolve conflict, stay organized and document money exchange in the event of legal conflict. </li>
-<li><a href="http://squarehub.com/">SquareHub</a> - an app that incorporates a shared calendar, for scheduling vacations and soccer practice, text messaging and photo sharing for familes with divorced parents.</li>
-<li><a href="https://www.wevorce.com/">Wevorce</a> - aims to take the expense and contention out of divorce by surveying customers, who are then directed to a team of divorce professionals that make sense for them.</li>
-<li><a href="https://www.ourfamilywizard.com/">Our Family Wizard</a> - suite of tools that support co-parenting, including expense tracking, medical record and calendar sharing, and a virtual diary.</li>
-<li><a href="https://www.2houses.com/">2houses</a> - this app and site also helps unmarried couples co-parent, through a shared calendar, expense tracking and balancing, list-making and and photo and comment sharing. </li>
-</ul>
-<br>
-
-# CYBERBULLYING 
-<br>
-
-# DISASTER RELIEF 
-<ul style="list-style-type:circle">
-<li><a href="https://www.mrelief.com/#?category=All">mRelief</a> - a non-profit organization that provides an easy to use online and text messaging tool for low-income Americans to find out if they qualify for social services</li>
-<li><a href="https://devpost.com/software/disastr">Disastr</a> - it offers access to disaster relief, breaking news and links to legal professionals who can help in the aftermath of a catastrophe. Included is advice on getting food stamps and health care, and navigating insurance after a natural disaster.</li>
-</ul>
-<br>
-
-# EMERGENCY SUPPORT
-<ul style="list-style-type:circle">
-<li><a href="https://github.com/betterangels/buoy/wiki">Buoy</a> is a free and open source technology for connecting users with friends and allies in times of need. It exists to empower you and your communities with a decentralized, customized, alternative crisis response system that does not rely on intervention by the police, other government services, or corporations.</li>
-</ul>
-<br>
-
-# POLICE CONDUCT
-<ul style="list-style-type:circle">
-<li><a href="http://oh-crap-app.com">"Oh Crap!" App</a> - protects drivers from an overly aggressive driving-while-intoxicated stop</li>
-<li><a href="http://www.nyclu.org/app">Stop and Frisk Watch App</a> - allows a neighborhood bystander to record a questionable stop-and-frisk with just a flick of the finger.</li>
-<li><a href="https://www.aclu.org/feature/aclu-apps-record-police-conduct">Mobile Justice</a> is a collection of ACLU apps to record police conduct, with apps for 18 states.</li>
-<li><a href="https://cpdb.co/data/b411jW/citizens-police-data-project">Citizens Police Data Project</a> is a database of 56,000 misconduct complaint records for more than 8,500 Chicago police officers.</li>
-<li><a href="http://crime-punishment.smartchicagoapps.org/">Crime and Punishment in Chicago</a> is an index of data sources surrounding this criminal justice system as it is in Chicago.</li>
-<li><a href="http://convictions.smartchicagoapps.org/">Convicted in Cook</a> is an analysis of five years of Cook County conviction data.</li>
-</ul>
-<br>
-
-# CRIMINAL RECORD 
-<ul style="list-style-type:circle">
-<li><a href="http://www.expunge.io/">Expunge.io</a> is a resource for people with juvenile records in Illinois. Expunge.io seeks to clarify juvenile expungement, with the hope of more people getting their records erased.</li>
-<li><a href="https://github.com/recordbleach/tx-recordbleach-api">RecordBleach</a> is a tool that enables Texans to prepare necessary court documents for expunction of certain arrests, charge, and convictions.</li>
-<li><a href="https://github.com/ReEntry-me">ReEntry.Me</a> helps parolees find resources with less friction. 
-</ul>
-<br>
-
-# CRIME 
-<li><a href="http://www.washingtonpost.com/wp-srv/special/local/dc-shot-spotter/">DC ShotSpotter</a> - uses a microphone network to identify the audio signature of a gunshot, triangulates its location and notifies police</li>
-</ul>
+# WOMEN
 <br>
