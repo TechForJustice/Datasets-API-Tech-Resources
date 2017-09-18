@@ -1,4 +1,5 @@
-An alphabetical list of companies and apps that provide solutions for increasing access to justice: 
+This is an alphabetical list of companies and apps that provide solutions for increasing access to justice: 
+<br>
 <br>
 
 # CHILDREN
