@@ -10,7 +10,7 @@ This is an alphabetical list of companies and apps that provide solutions for in
 <li><a href="https://www.wearethorn.org">Thorn</a> is a platform that supports the development of technologies to stop child sexual exploitation.</li>
 <li><a href="https://www.htspotlight.com">Spotlight</a>'s goal is to improve the effectiveness and efficiency of domestic sex trafficking investigations and increase the number of women and children who are identified and connected with help resources.</li>
 <li><a href="https://www.bark.us">Bark</a> is a watchdog engine which uses advanced algorithms to look for a variety of potential issues, such as cyberbullying, sexting, drug-related content, and signs of depression. If a potential issue is detected, a text/email alert is sent to guardians to review the issue, along with recommended actions on how to handle the situation.</li>
-<li><a href=""></a></li>
+<li><a href="https://www.oyoty.com">Oyoty</a> is a chatbot that detects threats and risks on smart devices and social networks using Artificial Intelligence (AI). Oyoty alerts the child to risks and threats--parents can also choose to receive an alert. Oyoty guides the child how to deal with risks/threats and delivers educational content to encourage safer online behaviour. You see your child’s progress on your dashboard.</li>
 </ul>
 <br>
 
