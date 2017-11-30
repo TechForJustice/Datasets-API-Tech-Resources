@@ -272,6 +272,7 @@ This is an alphabetical list of companies and apps that provide solutions for in
 <br>
 
 # PRO BONO
+<ul style="list-style-type:circle">
 <li><a href="https://www.probono.net">Pro Bono Net</a> - a non-profit organization dedicated to increasing access to justice for the disadvantaged</li>
 <li><a href="https://bailbloc.thenewinquiry.com">Bail Bloc</a> lets you volunteer your computer's spare power to get people out of jail.</li>
 </ul>
