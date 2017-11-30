@@ -277,6 +277,9 @@ This is an alphabetical list of companies and apps that provide solutions for in
 <br>
 
 # RACIAL JUSTICE
+<ul style="list-style-type:circle">
+<li><a href="http://www.konbini.com/en/lifestyle/app-spare-change-bail-out-black-prison-inmates/">Appolition.us</a> lets you bail out black prison inmates with your spare change.</li>
+</ul>
 <br>
 
 # ROBOT LAWYERS
